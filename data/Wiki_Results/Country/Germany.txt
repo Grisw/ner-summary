@@ -1,0 +1,80 @@
+Germany, officially the Federal Republic of Germany (German: Bundesrepublik Deutschland, About this sound listen (help�Pinfo)),[d] is a federal parliamentary republic in central-western Europe. 
+0.9736276268263518	||	None	||	this sound listen (help�Pinfo)),[d	||	is	||	a federal parliamentary republic; in central-western Europe; 
+
+It includes 16 constituent states, covers an area of 357,021 square kilometres (137,847 sq mi), and has a largely temperate seasonal climate. 
+
+
+With about 82 million inhabitants, Germany is the most populous member state of the European Union. 
+0.9481947648689547	||	None	||	Germany	||	is	||	the most populous member state of the European Union; 
+
+After the United States, it is the second most popular immigration destination in the world. 
+0.7014248240125444	||	None	||	it	||	is	||	the second most popular immigration destination in the world; After the United States; 
+
+Germany's capital and largest metropolis is Berlin. 
+0.9673978600748747	||	None	||	Germany's capital and largest metropolis	||	is	||	Berlin; 
+
+Other major cities include Hamburg, Munich, Cologne, Frankfurt, Stuttgart and Dusseldorf. 
+0.9519143416197944	||	None	||	Other major cities	||	include	||	Hamburg, Munich, Cologne, Frankfurt, Stuttgart and Dusseldorf; 
+
+Various Germanic tribes have inhabited the northern parts of modern Germany since classical antiquity. 
+0.9250606141558615	||	None	||	Various Germanic tribes	||	have inhabited	||	the northern parts of modern Germany; since classical antiquity; 
+
+A region named Germania was documented before 100 AD. 
+0.9180804252893389	||	None	||	A region	||	named	||	Germania; 
+0.9387281236502384	||	None	||	A region named Germania	||	was documented	||	before 100 AD; 
+
+During the Migration Period the Germanic tribes expanded southward. 
+0.9483953152764627	||	None	||	the Germanic tribes	||	expanded southward	||	During the Migration Period; 
+
+Beginning in the 10th century, German territories formed a central part of the Holy Roman Empire. 
+0.9524232899707616	||	None	||	German territories	||	formed	||	a central part of the Holy Roman Empire; Beginning in the 10th century; 
+
+During the 16th century, northern German regions became the centre of the Protestant Reformation. 
+0.948251406143469	||	None	||	northern German regions	||	became	||	the centre of the Protestant Reformation; During the 16th century; 
+
+In 1871, Germany became a nation state when most of the German states unified into the Prussian-dominated German Empire. 
+0.9534440626453463	||	None	||	Germany	||	became	||	a nation state; most of the German states; In 1871; 
+0.9250606141558615	||	None	||	the German states	||	unified	||	into the Prussian-dominated German Empire; 
+
+After World War I and the German Revolution of 1918�V1919, the Empire was replaced by the parliamentary Weimar Republic. 
+0.9775431494714371	||	None	||	the Empire	||	was replaced	||	by the parliamentary Weimar Republic; After World War I and the German Revolution of 1918�V1919; 
+
+The establishment of the national socialist dictatorship in 1933 led to World War II and the Holocaust. 
+0.9669351533121278	||	None	||	The establishment of the national socialist dictatorship in 1933	||	led	||	to World War II and the Holocaust; 
+
+After a period of Allied occupation, two German states were founded: the Federal Republic of Germany and the German Democratic Republic. 
+0.9483953152764627	||	None	||	two German states	||	were founded	||	After a period of Allied occupation; 
+
+In 1990, the country was reunified. 
+0.830169322587399	||	None	||	the country	||	was reunified	||	In 1990; 
+
+In the 21st century, Germany is a great power and has the world's fourth-largest economy by nominal GDP, as well as the fifth-largest by PPP. 
+0.9645011751708142	||	None	||	Germany	||	is	||	a great power; In the 21st century; 
+0.9779349613038713	||	None	||	Germany	||	has	||	the world's fourth-largest economy by nominal GDP, as well as the fifth-largest by PPP; In the 21st century; 
+
+As a global leader in several industrial and technological sectors, it is both the world's third-largest exporter and importer of goods. 
+0.6367319478431899	||	None	||	it	||	is	||	both the world's third-largest exporter and importer of goods; 
+
+Germany is a developed country with a very high standard of living sustained by a skilled and productive society. 
+0.9606193513644111	||	None	||	Germany	||	is	||	a developed country with a very high standard of living; 
+
+It upholds a social security and universal health care system, environmental protection and a tuition-free university education. 
+0.5691839633287576	||	None	||	It	||	upholds	||	a social security and universal health care system, environmental protection and a tuition-free university education; 
+
+Germany was a founding member of the European Union in 1993. 
+0.9481947648689547	||	None	||	Germany	||	was	||	a founding member of the European Union; in 1993; 
+
+It is part of the Schengen Area, and became a co-founder of the Eurozone in 1999. 
+0.5680679595514976	||	None	||	It	||	is	||	part of the Schengen Area; 
+0.45592395356914683	||	None	||	It	||	became	||	a co-founder of the Eurozone; in 1999; 
+
+Germany is a member of the United Nations, NATO, the G8, the G20, and the OECD. 
+0.9481947648689547	||	None	||	Germany	||	is	||	a member of the United Nations; 
+0.38089450366724514	||	None	||	NATO	||	[is] a member of	||	the United Nations; 
+0.8847999636040884	||	None	||	Germany	||	is a member of	||	the United Nations; 
+
+The national military expenditure is the 9th highest in the world. 
+0.9374631285472459	||	None	||	The national military expenditure	||	is	||	the 9th highest in the world; 
+
+Known for its rich cultural history, Germany has been continuously the home of influential artists, philosophers, musicians, sportspeople, entrepreneurs, scientists, engineers, and inventors. 
+0.9484177987969541	||	None	||	Germany	||	has been	||	continuously; the home of influential artists, philosophers, musicians, sportspeople, entrepreneurs, scientists, engineers, and inventors; 

@@ -1,0 +1,47 @@
+Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer and Internet entrepreneur. 
+0.949419443712137	||	None	||	Mark Elliot Zuckerberg	||	born	||	May 14, 1984; 
+0.9653436384802597	||	None	||	Mark Elliot Zuckerberg (born May 14, 1984	||	is	||	an American computer programmer and Internet entrepreneur; 
+
+He is the chairman, chief executive officer, and co-founder of Facebook. 
+0.6783685094789625	||	None	||	He	||	is	||	the chairman, chief executive officer, and co-founder of Facebook; 
+
+His net worth is estimated to be US $53.6 billion as of 2017, ranking him the 5th richest person in the world. 
+0.7003240400067219	||	None	||	His net worth	||	is estimated	||	to be US $53.6 billion as of 2017; 
+0.6639151797428681	||	None	||	His net worth	||	to be	||	US $53.6 billion; 
+
+Zuckerberg launched Facebook from Harvard's dormitory rooms on February 4, 2004. 
+0.9324144673478683	||	None	||	Zuckerberg	||	launched	||	Facebook; from Harvard's dormitory rooms; on February 4; 
+
+He was assisted by his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. 
+0.3498441627223176	||	None	||	He	||	was assisted	||	by his college roommates and fellow Harvard University students; 
+
+The group then introduced Facebook to other college campuses. 
+0.944202714291666	||	None	||	The group	||	introduced	||	Facebook; to other college campuses; then; 
+
+Facebook expanded rapidly, reaching one billion users by 2012. 
+0.7711002770011991	||	None	||	Facebook	||	expanded rapidly	||	
+0.9064683704715875	||	None	||	Facebook	||	reaching	||	one billion users; by 2012; 
+
+Meanwhile, Zuckerberg was involved in various legal disputes that were initiated by others in the group, who claimed a share of the company based upon their involvement during the development phase of Facebook. 
+0.9534440626453463	||	None	||	Zuckerberg	||	was involved	||	in various legal disputes; Meanwhile; 
+0.896604430840561	||	None	||	various legal disputes	||	were initiated	||	by others in the group; 
+0.9052256377408016	||	None	||	others in the group	||	claimed	||	a share of the company; 
+0.8588213959830759	||	None	||	the company	||	based	||	upon their involvement during the development phase of Facebook; 
+
+In December 2012, Zuckerberg and his wife Priscilla Chan announced that over the course of their lives they would give the majority of their wealth to "advancing human potential and promoting equality" in the spirit of The Giving Pledge. 
+0.5633230649309139	||	None	||	Zuckerberg and his wife	||	announced	||	that over the course of their lives they would give the majority of their wealth to "advancing human potential and promoting equality" in the spirit of The Giving Pledge; In December 2012; 
+0.6975022205542214	||	Some(Context(Zuckerberg and his wife announced,List([18, 66))))	||	they	||	would give	||	the majority of their wealth; to "advancing human potential and promoting equality" in the spirit of The Giving Pledge; over the course of their lives; 
+0.3853208301752743	||	None	||	Priscilla Chan	||	[is] wife [of]	||	him; 
+
+On December 1, 2015, they announced they would eventually give 99% of their Facebook shares (worth about $45 billion at the time) to the Chan Zuckerberg Initiative. 
+0.6975022205542214	||	None	||	they	||	announced	||	they would eventually give 99% of their Facebook shares (worth about $45 billion at the time) to the Chan Zuckerberg Initiative; On December 1, 2015; 
+0.600870567359904	||	Some(Context(they announced,List([21, 35))))	||	they	||	would give	||	99% of their Facebook shares (worth about $45 billion at the time) to the Chan Zuckerberg Initiative; eventually; 
+
+Since 2010, Time magazine has named Zuckerberg among the 100 wealthiest and most influential people in the world as a part of its Person of the Year distinction. 
+0.9775431494714371	||	None	||	Time magazine	||	has named	||	Zuckerberg; among the 100 wealthiest and most influential people in the world; Since 2010; 
+
+In December 2016, Zuckerberg was ranked 10th on Forbes list of The World's Most Powerful People. 
+0.9753210026959435	||	None	||	Zuckerberg	||	was ranked	||	10th; on Forbes list of The World's Most Powerful People; In December 2016; 
+
+According to Forbes Magazine, Zuckerberg has a net worth of $55.9 billion USD as of February 2017. 
+0.9383119524695255	||	None	||	Zuckerberg	||	has	||	a net worth of $55.9 billion USD; 

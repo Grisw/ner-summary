@@ -1,0 +1,97 @@
+France, officially the French Republic (R��publique fran?aise [?epyblik f?��?s?z]), is a country with territory in western Europe and several overseas regions and territories.[XV] The European, or metropolitan, area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. 
+0.9398766817635507	||	None	||	metropolitan, area of France	||	extends	||	from the Mediterranean Sea; to the English Channel and the North Sea; 
+
+Overseas France include French Guiana on the South American continent and several island territories in the Atlantic, Pacific and Indian oceans. 
+0.9605824069728295	||	None	||	Overseas France	||	include	||	French Guiana on the South American continent and several island territories in the Atlantic, Pacific and Indian oceans; 
+
+France spans 643,801 square kilometres (248,573 sq mi) and had a total population of almost 67 million people as of January 2017. 
+0.9383119524695255	||	None	||	France	||	spans	||	643,801 square kilometres; 
+0.9612584105285736	||	None	||	France	||	had	||	a total population of almost 67 million people as of January 2017; 
+
+It is a unitary semi-presidential republic with the capital in Paris, the country's largest city and main cultural and commercial centre. 
+0.5680679595514976	||	None	||	It	||	is	||	a unitary semi-presidential republic with the capital in Paris; 
+
+Other major urban centres include Marseille[XVI], Lyon, Lille, Nice, Toulouse and Bordeaux. 
+0.9561493139640403	||	None	||	Other major urban centres	||	include	||	Marseille[XVI], Lyon, Lille, Nice, Toulouse and Bordeaux; 
+
+During the Iron Age, what is now metropolitan France was inhabited by the Gauls, a Celtic people. 
+
+
+The area was annexed in 51 BC by Rome, which held Gaul until 486, when the Germanic Franks conquered the region and formed the Kingdom of France. 
+0.9180804252893389	||	None	||	The area	||	was annexed	||	in 51 BC; by Rome; 
+0.9392901325936276	||	None	||	Rome	||	held	||	Gaul; until 486; 
+0.9613090971431535	||	None	||	the Germanic Franks	||	conquered	||	the region; 486; 
+0.9339862216393666	||	None	||	the Germanic Franks	||	formed	||	the Kingdom of France; 
+
+France emerged as a major European power in the Late Middle Ages, with its victory in the Hundred Years' War (1337 to 1453) strengthening state-building and political centralisation. 
+0.9324144673478683	||	None	||	France	||	emerged	||	as a major European power; in the Late Middle Ages; 
+
+During the Renaissance, French culture flourished and a global colonial empire was established, which by the 20th century would be the second largest in the world. 
+0.9434557697760653	||	None	||	French culture	||	flourished	||	During the Renaissance; 
+0.7685182436997187	||	None	||	a global colonial empire	||	was established	||	
+0.9446325682738259	||	None	||	a global colonial empire	||	would be	||	the second largest in the world; by the 20th century; 
+
+The 16th century was dominated by religious civil wars between Catholics and Protestants (Huguenots). 
+0.9519143416197944	||	None	||	The 16th century	||	was dominated	||	by religious civil wars between Catholics and Protestants (Huguenots; 
+
+France became Europe's dominant cultural, political, and military power under Louis XIV. 
+0.9567562066335041	||	None	||	France	||	became	||	Europe's dominant cultural, political, and military power under Louis XIV; 
+
+In the late 18th century, the French Revolution overthrew the absolute monarchy, established one of modern history's earliest republics, and saw the drafting of the Declaration of the Rights of Man and of the Citizen, which expresses the nation's ideals to this day. 
+0.9613090971431535	||	None	||	the French Revolution	||	overthrew	||	the absolute monarchy; In the late 18th century; 
+0.9545505959060414	||	None	||	the French Revolution	||	established	||	one of modern history's earliest republics; In the late 18th century; 
+0.9678478279394086	||	None	||	the French Revolution	||	saw	||	the drafting of the Declaration of the Rights of Man and of the Citizen; 
+0.9143456855143793	||	None	||	the Citizen	||	expresses	||	the nation's ideals; to this day; 
+
+In the 19th century Napoleon took power and established the First French Empire, whose subsequent Napoleonic Wars shaped the course of continental Europe. 
+0.9534440626453463	||	None	||	Napoleon	||	took	||	power; In the 19th century; 
+0.954194008328487	||	None	||	Napoleon	||	established	||	the First French Empire; In the 19th century; 
+0.9397001286877047	||	None	||	the First French Empire	||	shaped	||	the course of continental Europe; 
+
+Following the collapse of the Empire, France endured a tumultuous succession of governments culminating with the establishment of the French Third Republic in 1870. 
+0.9610033692204465	||	None	||	France	||	endured	||	a tumultuous succession of governments; Following the collapse of the Empire; 
+
+France was a major participant in the First World War, from which it emerged victorious, and was one of the Allied Powers in the Second World War, but came under occupation by the Axis Powers in 1940. 
+0.9481947648689547	||	None	||	France	||	was	||	a major participant in the First World War; 
+0.22506131975927415	||	None	||	it	||	emerged	||	victorious; 
+0.9612584105285736	||	None	||	France	||	was	||	one of the Allied Powers in the Second World War; 
+0.9064683704715875	||	None	||	France	||	came	||	under occupation; in 1940; 
+
+Following liberation in 1944, a Fourth Republic was established and later dissolved in the course of the Algerian War. 
+0.9539354177697028	||	None	||	a Fourth Republic	||	was established	||	Following liberation in 1944; 
+0.9619374067886858	||	None	||	a Fourth Republic	||	dissolved	||	in the course of the Algerian War; Following liberation in 1944; later; 
+
+The Fifth Republic, led by Charles de Gaulle, was formed in 1958 and remains to this day. 
+0.949419443712137	||	None	||	The Fifth Republic	||	led	||	by Charles de Gaulle; 
+0.8056360478309452	||	None	||	The Fifth Republic	||	was formed	||	in 1958; 
+0.9216169339561846	||	None	||	The Fifth Republic	||	remains	||	to this day; 
+
+Algeria and nearly all the other colonies became independent in the 1960s with minimal controversy and typically retained close economic and military connections with France. 
+0.8783055085319037	||	None	||	Algeria and nearly all the other colonies	||	became	||	independent; 
+
+France has long been a global centre of art, science, and philosophy. 
+0.9554427371074048	||	None	||	France	||	has been	||	a global centre of art, science, and philosophy; long; 
+
+It hosts Europe's fourth-largest number of cultural UNESCO World Heritage Sites and receives around 83 million foreign tourists annually, the most of any country in the world. 
+0.6783685094789625	||	None	||	It	||	hosts	||	Europe's fourth-largest number of cultural UNESCO World Heritage Sites; 
+0.41051436014453063	||	None	||	It	||	receives	||	around 83 million foreign tourists annually; 
+
+France is a developed country with the world's sixth-largest economy by nominal GDP and ninth-largest by purchasing power parity. 
+0.9606193513644111	||	None	||	France	||	is	||	a developed country with the world's sixth-largest economy; 
+
+In terms of aggregate household wealth, it ranks fourth in the world. 
+0.6612826857476011	||	None	||	it	||	ranks	||	fourth; in the world; In terms of aggregate household wealth; 
+
+France performs well in international rankings of education, health care, life expectancy, and human development. 
+0.9484177987969541	||	None	||	France	||	performs well	||	in international rankings of education, health care, life expectancy, and human development; 
+
+France remains a great power in the world, being one of the five permanent members of the United Nations Security Council with the power to veto and an official nuclear-weapon state. 
+0.9197759696552441	||	None	||	France	||	remains	||	a great power in the world; 
+0.9492443998687922	||	None	||	France	||	being	||	one of the five permanent members of the United Nations Security Council with the power to veto and an official nuclear-weapon state; 
+
+It's a leading member state of the European Union and the Eurozone. 
+0.6783685094789625	||	None	||	It	||	's	||	a leading member state of the European Union and the Eurozone; 
+
+It is also a member of the Group of 7, North Atlantic Treaty Organization (NATO), Organisation for Economic Co-operation and Development (OECD), the World Trade Organization (WTO), and La Francophonie. 
+0.4978219019954182	||	None	||	It	||	is also	||	a member of the Group of 7; 
+0.38089450366724514	||	None	||	North Atlantic Treaty Organization ( NATO )	||	[is] a member of	||	the Group of 7; 

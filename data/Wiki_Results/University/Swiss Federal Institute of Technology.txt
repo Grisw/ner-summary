@@ -1,0 +1,27 @@
+ETH Zurich (Swiss Federal Institute of Technology in Zurich) is a science, technology, engineering and mathematics university in the city of Z��rich, Switzerland. 
+0.9647009540301618	||	None	||	ETH Zurich	||	is	||	a science, technology, engineering and mathematics university in the city of Z��rich; 
+
+Like its sister institution EPFL, it is an integral part of the Swiss Federal Institutes of Technology Domain (ETH Domain) that is directly subordinate to Switzerland's Federal Department of Economic Affairs, Education and Research. 
+0.6783685094789625	||	None	||	it	||	is	||	an integral part of the Swiss Federal Institutes of Technology Domain; 
+0.9779279830020898	||	None	||	the Swiss Federal Institutes of Technology Domain	||	is	||	directly subordinate to Switzerland's Federal Department of Economic Affairs, Education and Research; 
+
+ETH Zurich is consistently ranked among the top universities in the world. 
+0.9266232318014763	||	None	||	ETH Zurich	||	is consistently ranked	||	among the top universities in the world; 
+
+It is currently ranked as 5th best university in the world for the subject of engineering and technology, just behind the Massachusetts Institute of Technology, Stanford University, Cambridge University and National University of Singapore in the QS World University Rankings by Subject . 
+0.48999941440774075	||	None	||	It	||	is ranked	||	as 5th best university in the world; currently; 
+
+It is ranked 8th in the world in the 2016 edition of the QS World University Rankings, while the QS World University Rankings by Subject has ranked it as the best university in the world for Earth & Marine Sciences in both 2015/16 and 2016/17's editions. 
+0.6138676038426771	||	None	||	It	||	is ranked	||	8th; in the world; in the 2016 edition of the QS World University Rankings; 
+
+Twenty-one Nobel Prizes have been awarded to students or professors of the Institute in the past, the most famous of whom was Albert Einstein with the 1921 Nobel Prize in Physics, along with Niels Bohr who was awarded the 1922 Nobel Prize in Physics, both for work dealing with quantum physics. 
+0.9277724913494431	||	None	||	Niels Bohr	||	was awarded	||	the 1922 Nobel Prize in Physics; 
+0.8131408756488548	||	None	||	work	||	dealing	||	with quantum physics; 
+0.6921369362736844	||	None	||	the most famous of whom	||	was	||	Albert Einstein; 
+0.9630648577558433	||	Some(Context(the most famous of whom was,List([98, 125))))	||	Twenty-one Nobel Prizes	||	have been awarded	||	to students or professors of the Institute in the past; 
+
+It is a founding member of the IDEA League and the International Alliance of Research Universities (IARU) and a member of the CESAER network. 
+0.6783685094789625	||	None	||	It	||	is	||	a founding member of the IDEA League and the International Alliance of Research Universities (IARU) and a member of the CESAER network; 
+
+The school was founded by the Swiss Federal Government in 1854 with the stated mission to educate engineers and scientists, serve as a national center of excellence in science and technology and provide a hub for interaction between the scientific community and industry. 
+0.9180804252893389	||	None	||	The school	||	was founded	||	by the Swiss Federal Government; in 1854; 

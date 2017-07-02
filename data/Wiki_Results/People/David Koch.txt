@@ -1,0 +1,51 @@
+David Hamilton Koch (born May 3, 1940) is an American businessman, philanthropist, political activist, and chemical engineer. 
+0.949419443712137	||	None	||	David Hamilton Koch	||	born	||	May 3, 1940; 
+0.9781040476022334	||	None	||	David Hamilton Koch (born May 3, 1940	||	is	||	an American businessman, philanthropist, political activist, and chemical engineer; 
+
+He joined the family business Koch Industries, a conglomerate that is the second-largest privately held company in the United States, in 1970. 
+0.4978219019954182	||	None	||	He	||	joined	||	the family business Koch Industries; 
+0.9527316856636409	||	None	||	a conglomerate	||	is	||	the second-largest privately held company in the United States, in 1970; 
+
+He became president of the subsidiary Koch Engineering in 1979, and became a co-owner of Koch Industries, with older brother Charles, in 1983. 
+0.45170382506656653	||	None	||	He	||	became	||	president of the subsidiary; in 1979; 
+0.45592395356914683	||	None	||	He	||	became	||	a co-owner of Koch Industries; 
+
+He is now an executive vice president. 
+0.5222094630377523	||	None	||	He	||	is	||	now; an executive vice president; 
+
+Koch is an influential libertarian. 
+0.8867237254315935	||	None	||	Koch	||	is	||	an influential libertarian; 
+
+He was the 1980 candidate for Vice President of the United States from the United States Libertarian Party and helped finance the campaign. 
+0.6783685094789625	||	None	||	He	||	was	||	the 1980 candidate for Vice President of the United States from the United States Libertarian Party; 
+0.41051436014453063	||	None	||	He	||	helped	||	finance the campaign; 
+
+He founded Citizens for a Sound Economy. 
+0.4978219019954182	||	None	||	He	||	founded	||	Citizens; for a Sound Economy; 
+
+He and his brother Charles have donated to political advocacy groups and to political campaigns, almost entirely Republican. 
+0.743579772206859	||	None	||	He and his brother	||	have donated	||	to political advocacy groups and to political campaigns, almost entirely Republican; 
+0.3853208301752743	||	None	||	Charles	||	[is] brother [of]	||	him; 
+
+Conde Nast Portfolio described him as "one of the most generous but low-key philanthropists in America". 
+0.9357729459540856	||	None	||	Conde Nast Portfolio	||	described	||	him; as "one of the most generous but low-key philanthropists in America; 
+
+Koch has contributed to several charities including Lincoln Center, Sloan Kettering, New York-Presbyterian Hospital and the Dinosaur Wing at the American Museum of Natural History. 
+0.9192653036176239	||	None	||	Koch	||	has contributed	||	to several charities including Lincoln Center, Sloan Kettering, New York-Presbyterian Hospital and the Dinosaur Wing at the American Museum of Natural History; 
+0.38089450366724514	||	None	||	Sloan Kettering	||	[is] Center [of]	||	Lincoln; 
+
+The New York State Theater at Lincoln Center, home of the New York City Ballet was renamed the David H. 
+0.9219018827333112	||	None	||	The New York State Theater at Lincoln Center	||	was renamed	||	the David H.; 
+
+Koch Theater in 2008 following a gift of 100 million dollars for the renovation of the theater. 
+0.9387281236502384	||	None	||	Koch Theater in 2008	||	following	||	a gift of 100 million dollars; 
+
+Koch is the fourth richest person in America as of 2012, and the wealthiest resident of New York City as of 2013. 
+0.9040259452709256	||	None	||	Koch	||	is	||	the fourth richest person in America as of 2012; 
+
+He is the ninth-wealthiest person in the world, as of 2014. 
+0.5222094630377523	||	None	||	He	||	is	||	the ninth-wealthiest person in the world; 
+
+He is a survivor of the USAir Flight 1493 crash in 1991. 
+0.5680679595514976	||	None	||	He	||	is	||	a survivor of the USAir Flight 1493 crash; in 1991; 
+0.8847999636040884	||	None	||	He	||	is a survivor of	||	the USAir Flight 1493 crash; 

@@ -1,0 +1,46 @@
+The University of Oxford (informally Oxford University or simply Oxford) is a collegiate research university located in Oxford, England. 
+0.9538634956324158	||	None	||	The University of Oxford	||	is	||	a collegiate research university located in Oxford, England; 
+0.9314904193639496	||	None	||	a collegiate research university	||	located	||	in Oxford; 
+
+It has no known date of foundation, but there is evidence of teaching as far back as 1096, making it the oldest university in the English-speaking world and the world's second-oldest university in continuous operation. 
+0.5222094630377523	||	None	||	It	||	has	||	no known date of foundation; 
+0.7400991314571976	||	None	||	English	||	speaking	||	
+
+It grew rapidly from 1167 when Henry II banned English students from attending the University of Paris. 
+0.27813615858960106	||	None	||	It	||	grew	||	rapidly; from 1167; 
+0.9543301869642496	||	None	||	Henry II	||	banned	||	English students; from attending the University of Paris; 1167; 
+0.9212499880074402	||	Some(Context(Henry II banned,List([31, 46))))	||	Henry II	||	banned English students from attending	||	the University of Paris; 
+
+After disputes between students and Oxford townsfolk in 1209, some academics fled north-east to Cambridge where they established what became the University of Cambridge. 
+0.9637136110498337	||	None	||	some academics	||	fled	||	north-east; After disputes between students and Oxford townsfolk in 1209; 
+0.7259423610944893	||	None	||	they	||	established	||	what became the University of Cambridge; Cambridge; 
+
+The two "ancient universities" are frequently jointly referred to as "Oxbridge". 
+
+
+The university is made up of a variety of institutions, including 38 constituent colleges and a full range of academic departments which are organised into four divisions. 
+0.9372494423173455	||	None	||	The university	||	is made up	||	of a variety of institutions, including 38 constituent colleges and a full range of academic departments; 
+0.8872966301155124	||	None	||	academic departments	||	are organised	||	into four divisions; 
+
+All the colleges are self-governing institutions within the university, each controlling its own membership and with its own internal structure and activities. 
+0.9111779447320654	||	None	||	All the colleges	||	are	||	self-governing institutions within the university; 
+0.3934323354627163	||	None	||	each	||	controlling	||	its own membership; 
+
+Being a city university, it does not have a main campus; instead, its buildings and facilities are scattered throughout the city centre. 
+0.622185385852634	||	None	||	its buildings and facilities	||	are scattered	||	throughout the city centre; 
+0.3880890333449538	||	Some(Context(its buildings and facilities are scattered,List([66, 108))))	||	it	||	does not have	||	a main campus; 
+
+Most undergraduate teaching at Oxford is organised around weekly tutorials at the colleges and halls, supported by classes, lectures and laboratory work provided by university faculties and departments. 
+0.944056173886228	||	None	||	Most undergraduate teaching at Oxford	||	is organised	||	around weekly tutorials; at the colleges and halls; 
+0.9344893211562376	||	None	||	Most undergraduate teaching at Oxford	||	supported	||	by classes, lectures and laboratory work; 
+0.9030401971054747	||	None	||	laboratory work	||	provided	||	by university faculties and departments; 
+
+Oxford is the home of the Rhodes Scholarship, one of the world's oldest and most prestigious scholarships, which has brought graduate students to study at the university for more than a century. 
+0.9481947648689547	||	None	||	Oxford	||	is	||	the home of the Rhodes Scholarship; 
+0.9575287056793244	||	None	||	the world's oldest and most prestigious scholarships	||	has brought	||	graduate students; to study at the university for more than a century; 
+
+The university operates the world's oldest university museum, as well as the largest university press in the world and the largest academic library system in Britain. 
+0.9472929138282772	||	None	||	The university	||	operates	||	the world's oldest university museum, as well as the largest university press in the world and the largest academic library system in Britain; 
+
+Oxford has educated many notable alumni, including 28 Nobel laureates, 27 Prime Ministers of the United Kingdom, and many heads of state and government around the world. 
+0.9567562066335041	||	None	||	Oxford	||	has educated	||	many notable alumni, including 28 Nobel laureates, 27 Prime Ministers of the United Kingdom, and many heads of state and government around the world; 

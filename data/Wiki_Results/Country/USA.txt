@@ -1,0 +1,118 @@
+The United States of America, commonly referred to as the United States (U.S.) or America, is a constitutional federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions.[fn 6] Forty-eight of the fifty states and the federal district are contiguous and located in North America between Canada and Mexico. 
+0.8341272337555721	||	None	||	The United States of America	||	commonly referred	||	to; 
+0.9759360364531002	||	None	||	the United States (U.S.) or America	||	is	||	a constitutional federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions; 
+0.9477002800201834	||	None	||	a constitutional federal republic	||	composed	||	of 50 states, a federal district, five major self-governing territories, and various possessions; 
+0.9828498614651495	||	None	||	fn 6] Forty-eight of the fifty states and the federal district	||	are	||	contiguous and located in North America between Canada and Mexico; 
+
+The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. 
+0.9607199668152148	||	None	||	The state of Alaska	||	is	||	in the northwest corner of North America; 
+0.9290561051951948	||	None	||	the northwest corner of North America	||	bordered	||	to the west; 
+
+The state of Hawaii is an archipelago in the mid-Pacific Ocean. 
+0.9607199668152148	||	None	||	The state of Hawaii	||	is	||	an archipelago in the mid-Pacific Ocean; 
+
+The U.S. 
+
+
+territories are scattered about the Pacific Ocean and the Caribbean Sea. 
+0.9105129651916236	||	None	||	territories	||	are scattered	||	about the Pacific Ocean and the Caribbean Sea; 
+
+Nine time zones are covered. 
+0.7508836390842847	||	None	||	Nine time zones	||	are covered	||	
+
+The geography, climate and wildlife of the country are extremely diverse. 
+0.8659108342662368	||	None	||	The geography, climate and wildlife of the country	||	are	||	extremely diverse; 
+
+At 3.8 million square miles (9.8 million km2) and with over 324 million people, the United States is the world's third- or fourth-largest country by total area,[fn 7] third-largest by land area, and the third-most populous. 
+0.9673137680177765	||	None	||	the United States	||	is	||	the world's third- or fourth-largest country by total area; 
+
+It is one of the world's most ethnically diverse and multicultural nations, and is home to the world's largest immigrant population. 
+0.6367319478431899	||	None	||	It	||	is	||	one of the world's most ethnically diverse and multicultural nations; 
+0.4802217740069371	||	None	||	It	||	is	||	home to the world's largest immigrant population; 
+
+The capital is Washington, D.C. 
+0.9369813267476892	||	None	||	The capital	||	is	||	Washington; 
+
+and the largest city is New York City; the other major metropolitan areas, all with around five million or more inhabitants, are Los Angeles, Chicago, San Francisco, Boston, Dallas, Philadelphia, Houston, Miami, and Atlanta. 
+
+
+Paleo-Indians migrated from Asia to the North American mainland at least 15,000 years ago. 
+0.9105129651916236	||	None	||	Paleo-Indians	||	migrated	||	from Asia; at least 15,000 years ago; 
+
+European colonization began in the 16th century. 
+0.9030401971054747	||	None	||	European colonization	||	began	||	in the 16th century; 
+
+The United States emerged from 13 British colonies along the East Coast. 
+0.9436221120476838	||	None	||	The United States	||	emerged	||	from 13 British colonies along the East Coast; 
+
+Numerous disputes between Great Britain and the colonies following the Seven Years' War led to the American Revolution, which began in 1775. 
+0.9706594306233248	||	None	||	Numerous disputes between Great Britain and the colonies following the Seven Years' War	||	led	||	to the American Revolution; 
+0.8056360478309452	||	None	||	the American Revolution	||	began	||	in 1775; 
+
+On July 4, 1776, during the course of the American Revolutionary War, the colonies unanimously adopted the Declaration of Independence. 
+0.9524232899707616	||	None	||	the colonies	||	unanimously adopted	||	the Declaration of Independence; On July 4, 1776; during the course of the American Revolutionary War; 
+
+The war ended in 1783 with recognition of the independence of the United States by Great Britain, representing the first successful war of independence against a European power. 
+0.9180804252893389	||	None	||	The war	||	ended	||	in 1783; with recognition of the independence of the United States; 
+0.9266090726027133	||	None	||	The war	||	representing	||	the first successful war of independence against a European power; 
+
+The current constitution was adopted in 1788, after the Articles of Confederation, adopted in 1781, were felt to have provided inadequate federal powers. 
+0.7833813375237394	||	None	||	The current constitution	||	was adopted	||	in 1788; 
+0.820322250151534	||	None	||	the Articles of Confederation	||	adopted	||	in 1781; 
+
+The first ten amendments, collectively named the Bill of Rights, were ratified in 1791 and designed to guarantee many fundamental civil liberties. 
+0.9199569125504766	||	None	||	The first ten amendments	||	collectively named	||	the Bill of Rights; 
+0.8997960720800617	||	None	||	The first ten amendments, collectively named the Bill of Rights	||	were ratified	||	in 1791; 
+0.9622243483009446	||	None	||	The first ten amendments, collectively named the Bill of Rights	||	designed	||	to guarantee many fundamental civil liberties; 
+0.9622243483009446	||	None	||	The first ten amendments, collectively named the Bill of Rights	||	to guarantee	||	many fundamental civil liberties; 
+
+The United States embarked on a vigorous expansion across North America throughout the 19th century, displacing American Indian tribes, acquiring new territories, and gradually admitting new states until it spanned the continent by 1848. 
+0.45170382506656653	||	None	||	it	||	spanned	||	the continent; by 1848; 
+0.927981291055698	||	None	||	The United States	||	embarked	||	on a vigorous expansion across North America; throughout the 19th century; 
+0.8748644295993095	||	Some(Context(The United States embarked,List([0, 26))))	||	The United States	||	embarked on a vigorous expansion across North America displacing	||	American Indian tribes; 
+0.8748644295993095	||	Some(Context(The United States embarked,List([0, 26))))	||	The United States	||	embarked on a vigorous expansion across North America acquiring	||	new territories; 
+
+During the second half of the 19th century, the American Civil War led to the end of legal slavery in the country. 
+0.9731953480424435	||	None	||	the American Civil War	||	led	||	to the end of legal slavery in the country; During the second half of the 19th century; 
+
+By the end of that century, the United States extended into the Pacific Ocean, and its economy, driven in large part by the Industrial Revolution, began to soar. 
+0.9161137923016782	||	None	||	the United States	||	extended	||	into the Pacific Ocean; By the end of that century; 
+0.6420236436771103	||	None	||	its economy	||	driven	||	in large part; by the Industrial Revolution; 
+0.5862469872526263	||	None	||	its economy, driven in large part by the Industrial Revolution	||	began	||	
+0.5862469872526263	||	None	||	its economy, driven in large part by the Industrial Revolution	||	to soar	||	
+
+The Spanish�VAmerican War and World War I confirmed the country's status as a global military power. 
+0.9133161350673545	||	None	||	The Spanish�VAmerican War and World War I	||	confirmed	||	the country's status; 
+
+The United States emerged from World War II as a global superpower, the first country to develop nuclear weapons, the only country to use them in warfare, and a permanent member of the United Nations Security Council. 
+0.9436221120476838	||	None	||	The United States	||	emerged	||	from World War II; as a global superpower; 
+
+The end of the Cold War and the dissolution of the Soviet Union in 1991 left the United States as the world's sole superpower. 
+0.9860733391039354	||	None	||	The end of the Cold War and the dissolution of the Soviet Union in 1991	||	left	||	the United States; as the world's sole superpower; 
+
+The U.S. 
+
+
+is a founding member of the United Nations, World Bank, International Monetary Fund, Organization of American States (OAS), and other international organizations. 
+0.4953178616921359	||	None	||	World Bank	||	[is] a founding member of	||	the United Nations; 
+
+The United States is a highly developed country, with the world's largest economy by nominal GDP and second-largest economy by PPP. 
+0.9485955390117107	||	None	||	The United States	||	is	||	a highly developed country; 
+
+It ranks highly in several measures of socioeconomic performance, including average wage, human development, per capita GDP, and productivity per person. 
+0.6367319478431899	||	None	||	It	||	ranks	||	highly; in several measures of socioeconomic performance, including average wage, human development, per capita GDP, and productivity per person; 
+
+While the U.S. 
+
+
+economy is considered post-industrial, characterized by the dominance of services and knowledge economy, the manufacturing sector remains the second-largest in the world. 
+0.5025135004100942	||	None	||	post-industrial	||	characterized	||	by the dominance of services and knowledge economy; 
+0.9111779447320654	||	None	||	the manufacturing sector	||	remains	||	the second-largest in the world; 
+
+Though its population is only 4.3% of the world total, the United States accounts for nearly a quarter of world GDP and over a third of global military spending, making it the world's foremost economic and military power. 
+0.7005288659799959	||	None	||	its population	||	is	||	only 4.3% of the world total; 
+0.9449723878413008	||	None	||	the United States	||	accounts	||	for nearly a quarter of world GDP and over a third of global military spending; 
+0.7914452971189485	||	Some(Context(the United States accounts,List([55, 81))))	||	the United States	||	accounts for nearly a quarter of world GDP and over a third of global military spending making	||	it the world's foremost economic and military power; 
+
+The United States is a prominent political and cultural force internationally, and a leader in scientific research and technological innovations. 
+0.9311322699668654	||	None	||	The United States	||	is internationally	||	a prominent political and cultural force; 

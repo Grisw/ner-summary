@@ -1,0 +1,60 @@
+The University of Chicago (U of C, Chicago, or UChicago) is a private research university in Chicago, Illinois. 
+0.9538634956324158	||	None	||	The University of Chicago	||	is	||	a private research university in Chicago; 
+
+The university, established in 1890, is composed of the College, various graduate programs, and interdisciplinary committees organized into five academic research divisions and seven professional schools. 
+0.7351279940478935	||	None	||	The university	||	established	||	in 1890; 
+0.9571944359937099	||	None	||	The university, established in 1890	||	is composed	||	of the College, various graduate programs, and interdisciplinary committees; 
+0.9030401971054747	||	None	||	interdisciplinary committees	||	organized	||	into five academic research divisions and seven professional schools; 
+
+Beyond the arts and sciences, Chicago is also well known for its professional schools, which include the Pritzker School of Medicine, the Booth School of Business, the Law School, the School of Social Service Administration, the Harris School of Public Policy Studies, the Divinity School and the Graham School of Continuing Liberal and Professional Studies. 
+0.9174666959940793	||	None	||	Chicago	||	is also	||	well known for its professional schools; Beyond the arts and sciences; 
+0.7600770989182984	||	None	||	its professional schools	||	include	||	the Pritzker School of Medicine, the Booth School of Business, the Law School, the School of Social Service Administration; 
+
+The university currently enrolls approximately 5,700 students in the College and around 15,000 students overall. 
+0.9644606011624551	||	None	||	The university	||	enrolls	||	approximately 5,700 students in the College and around 15,000 students overall; currently; 
+
+University of Chicago scholars have played a major role in the development of various academic disciplines, including: the Chicago school of economics; the Chicago school of sociology; law and economics theory in legal analysis; the Chicago school of literary criticism; the Chicago school of religion; and the behavioralism school of political science. 
+0.9387281236502384	||	None	||	University of Chicago scholars	||	have played	||	a major role; in the development of various academic disciplines; 
+
+Chicago's physics department helped develop the world's first man-made, self-sustaining nuclear reaction (Chicago Pile-1) beneath the viewing stands of university's Stagg Field. 
+0.959469457484839	||	None	||	Chicago's physics department	||	helped	||	develop the world's first man-made, self-sustaining nuclear reaction (Chicago Pile-1) beneath the viewing stands of university's Stagg Field; 
+0.959469457484839	||	Some(Context(Chicago 's physics department helped,List([0, 35))))	||	Chicago's physics department	||	helped develop	||	the world's first man-made, self-sustaining nuclear reaction (Chicago Pile-1) beneath the viewing stands of university's Stagg Field; 
+
+Chicago's research pursuits are aided through its operation of world-renowned institutions, including the nearby Fermi National Accelerator Laboratory and Argonne National Laboratory, as well as the Marine Biological Laboratory. 
+0.8182346120370801	||	None	||	Chicago's research pursuits	||	are aided	||	
+0.38089450366724514	||	None	||	Accelerator Laboratory	||	[is] nearby National [of]	||	Fermi; 
+0.38089450366724514	||	None	||	Laboratory	||	[is] National [of]	||	Argonne; 
+
+The university is also home to the University of Chicago Press, the largest university press in the United States. 
+0.9180804252893389	||	None	||	The university	||	is also	||	home to the University of Chicago Press; 
+
+With an estimated completion date of 2020, the Barack Obama Presidential Center will be housed at the university and include both the Obama presidential library and offices of the Obama Foundation. 
+0.967890181429115	||	None	||	the Barack Obama Presidential Center	||	will be housed	||	at the university; With an estimated completion date of 2020; 
+0.9649457459127474	||	None	||	the Barack Obama Presidential Center	||	include	||	both the Obama presidential library and offices of the Obama Foundation; 
+
+Founded by the American Baptist Education Society with a donation from oil magnate and widely considered the wealthiest American in history John D. 
+0.38089450366724514	||	None	||	Education Society	||	[is] Baptist [from]	||	United States; 
+
+Rockefeller, the University of Chicago was incorporated in 1890; William Rainey Harper became the university's first president in 1891, and the first classes were held in 1892. 
+0.7833813375237394	||	None	||	the first classes	||	were held	||	in 1892; 
+0.9145897269608269	||	None	||	William Rainey Harper	||	became	||	the university's first president; in 1891; 
+0.7245353504822831	||	Some(Context(William Rainey Harper became,List([65, 93))))	||	Rockefeller	||	was incorporated	||	in 1890; 
+
+Both Harper and future president Robert Maynard Hutchins advocated for Chicago's curriculum to be based upon theoretical and perennial issues rather than on applied sciences and commercial utility. 
+0.9775360501014396	||	None	||	Both Harper and future president Robert Maynard Hutchins	||	advocated	||	for Chicago's curriculum to be based upon theoretical and perennial issues rather than on applied sciences and commercial utility; 
+0.9329286852051247	||	None	||	Chicago's curriculum	||	to be based	||	upon theoretical and perennial issues; 
+
+With Harper's vision in mind, the University of Chicago also became one of the 14 founding members of the Association of American Universities, an international organization of leading research universities, in 1900. 
+0.9615261236584439	||	None	||	the University of Chicago	||	became	||	one of the 14 founding members of the Association of American Universities; 
+
+The University of Chicago has many prominent alumni. 
+0.9531084046451801	||	None	||	The University of Chicago	||	has	||	many prominent alumni; 
+
+92 Nobel laureates have been affiliated with the university as professors, students, faculty, or staff, the fourth most of any institution in the world. 
+0.95709374506516	||	None	||	92 Nobel laureates	||	have been affiliated	||	with the university as professors, students, faculty, or staff; 
+
+Similarly, 34 faculty members and 16 alumni have been awarded the MacArthur ��Genius Grant��. 
+0.9428419046403852	||	None	||	34 faculty members and 16 alumni	||	have been awarded	||	the MacArthur ��Genius Grant��; 
+
+In addition, Chicago's alumni include 50 Rhodes Scholars, 22 Marshall Scholars, 9 Fields Medalists, 20 National Humanities Medalists, 13 billionaire graduates, and a plethora of members of the United States Congress and heads of state of countries all over the world. 
+0.9640827750857294	||	None	||	Chicago's alumni	||	include	||	50 Rhodes Scholars, 22 Marshall Scholars, 9 Fields Medalists, 20 National Humanities Medalists, 13 billionaire graduates, and a plethora of members of the United States Congress and heads of state of countries all over the world; 

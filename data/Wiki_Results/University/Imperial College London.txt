@@ -1,0 +1,50 @@
+Imperial College London is a public research university located in London, United Kingdom. 
+0.9726855614196764	||	None	||	Imperial College London	||	is	||	a public research university located in London, United Kingdom; 
+0.9314904193639496	||	None	||	a public research university	||	located	||	in London, United Kingdom; 
+
+Its founder, Prince Albert, envisioned an area constituted of the Victoria and Albert Museum, Natural History Museum, Royal Albert Hall, and the Imperial Institute. 
+0.7420153049579357	||	None	||	Its founder	||	envisioned	||	an area constituted of the Victoria and Albert Museum, Natural History Museum, Royal Albert Hall, and the Imperial Institute; 
+0.7323734373534755	||	None	||	an area	||	constituted	||	
+0.886695286966665	||	None	||	Prince Albert	||	[is] founder [of]	||	Its; 
+
+The Imperial Institute was opened by his wife, Queen Victoria, who laid the foundation stone in 1887. 
+0.883042269491254	||	None	||	The Imperial Institute	||	was opened	||	by his wife; 
+0.598467018900354	||	None	||	his wife	||	laid	||	the foundation stone; in 1887; 
+0.3853208301752743	||	None	||	Queen Victoria	||	[is] wife [of]	||	him; 
+
+Imperial College London was granted a royal charter in 1907. 
+0.9329286852051247	||	None	||	Imperial College London	||	was granted	||	a royal charter; in 1907; 
+
+In the same year, the college joined the University of London, before leaving it a century later. 
+0.9157268167083509	||	None	||	the college	||	joined	||	the University of London; before leaving it a century later; In the same year; 
+
+The curriculum was expanded to include medicine after mergers with several historic medical schools. 
+0.9372494423173455	||	None	||	The curriculum	||	was expanded	||	to include medicine after mergers with several historic medical schools; 
+0.8872966301155124	||	None	||	The curriculum	||	to include	||	medicine after mergers with several historic medical schools; 
+
+In 2004, Queen Elizabeth II opened the Imperial College Business School. 
+0.9676347051283354	||	None	||	Queen Elizabeth II	||	opened	||	the Imperial College Business School; In 2004; 
+
+Imperial is organised into faculties of science, engineering, medicine, and business. 
+0.9484177987969541	||	None	||	Imperial	||	is organised	||	into faculties of science, engineering, medicine, and business; 
+
+The main campus is located in the Royal Borough of Kensington and Chelsea. 
+0.9250606141558615	||	None	||	The main campus	||	is located	||	in the Royal Borough of Kensington and Chelsea; 
+
+The university's emphasis is on emerging technology and its practical application. 
+0.8905536887581147	||	None	||	The university's emphasis	||	is	||	on emerging technology and its practical application; 
+
+Imperial's contributions to society include the discovery of penicillin, the development of fibre optics, and holography. 
+0.944056173886228	||	None	||	Imperial's contributions to society	||	include	||	the discovery of penicillin; 
+
+Imperial is consistently ranked among the top universities in the world. 
+0.9197759696552441	||	None	||	Imperial	||	is consistently ranked	||	among the top universities in the world; 
+
+In 2017, it ranked 8th in the Times Higher Education World University Rankings, 9th in the QS World University Rankings, 22nd in the Academic Ranking of World Universities, and 9th in UniRanks 'Ranking of Rankings' of World Universities. 
+0.6390877093110117	||	None	||	it	||	ranked	||	8th; in the Times Higher Education World University Rankings; in the QS World University Rankings; in the Academic Ranking of World Universities; In 2017; 
+
+In 2015, Imperial was also ranked the most innovative university in Europe, and in 2017 as the 5th most international university in the world. 
+0.9610033692204465	||	None	||	Imperial	||	was also ranked	||	the most innovative university; in Europe; In 2015; 
+
+Staff and alumni include 15 Nobel laureates, 2 Fields Medalists, 70 Fellows of the Royal Society, 82 Fellows of the Royal Academy of Engineering, and 78 Fellows of the Academy of Medical Sciences. 
+0.9519143416197944	||	None	||	Staff and alumni	||	include	||	15 Nobel laureates, 2 Fields Medalists, 70 Fellows of the Royal Society, 82 Fellows of the Royal Academy of Engineering, and 78 Fellows of the Academy of Medical Sciences; 

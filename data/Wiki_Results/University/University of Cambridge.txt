@@ -1,0 +1,57 @@
+The University of Cambridge (informally Cambridge University) is a collegiate public research university in Cambridge, England. 
+0.9538634956324158	||	None	||	The University of Cambridge	||	is	||	a collegiate public research university in Cambridge; 
+
+Founded in 1209 and given royal charter status by King Henry III in 1231, Cambridge is the second-oldest university in the English-speaking world and the world's fourth-oldest surviving university. 
+0.9670538616899376	||	None	||	Cambridge	||	is	||	the second-oldest university in the English-speaking world and the world's fourth-oldest surviving university; 
+0.7400991314571976	||	None	||	English	||	speaking	||	
+
+The university grew out of an association of scholars who left the University of Oxford after a dispute with the townspeople. 
+0.9251282565798027	||	None	||	The university	||	grew	||	out of an association of scholars; 
+0.91942418724073	||	None	||	scholars	||	left	||	the University of Oxford; after a dispute with the townspeople; 
+
+The two ancient universities share many common features and are often referred to jointly as "Oxbridge". 
+0.9186941924198344	||	None	||	The two ancient universities	||	share	||	many common features; 
+
+Cambridge is formed from a variety of institutions which include 31 constituent colleges and over 100 academic departments organised into six schools. 
+0.9197759696552441	||	None	||	Cambridge	||	is formed	||	from a variety of institutions; 
+0.8772656277736296	||	None	||	institutions	||	include	||	31 constituent colleges and over 100 academic departments; 
+0.9186941924198344	||	None	||	over 100 academic departments	||	organised	||	into six schools; 
+
+Cambridge University Press, a department of the university, is the world's oldest publishing house and the second-largest university press in the world. 
+0.9615622189390345	||	None	||	Cambridge University Press	||	is	||	the world's oldest publishing house and the second-largest university press in the world; 
+
+The university also operates eight cultural and scientific museums, including the Fitzwilliam Museum, and a botanic garden. 
+0.9382433616531214	||	None	||	The university	||	operates	||	eight cultural and scientific museums, including the Fitzwilliam Museum, and a botanic garden; 
+
+Cambridge's libraries hold a total of around 15 million books, eight million of which are in Cambridge University Library, a legal deposit library. 
+0.9485955390117107	||	None	||	Cambridge's libraries	||	hold	||	a total of around 15 million books; 
+0.9199569125504766	||	None	||	around 15 million books	||	are	||	in Cambridge University Library; 
+
+In the year ended 31 July 2015, the university had a total income of ��1.64 billion, of which ��398 million was from research grants and contracts. 
+0.9180804252893389	||	None	||	the year	||	ended	||	31 July 2015; 
+0.9725241220367677	||	None	||	the university	||	had	||	a total income of ��1.64 billion, of which ��398 million was from research grants and contracts; In the year; 
+0.6793285496932128	||	None	||	of which ��398 million	||	was	||	from research grants and contracts; 
+
+The central university and colleges have a combined endowment of around ��5.89 billion, the largest of any university outside the United States. 
+0.9256263201643982	||	None	||	The central university and colleges	||	have	||	a combined endowment of around ��5.89 billion; 
+
+The university is closely linked with the development of the high-tech business cluster known as "Silicon Fen". 
+0.7323734373534755	||	None	||	The university	||	is closely linked	||	
+0.9563016406678672	||	None	||	the high-tech business cluster	||	known	||	as "Silicon Fen; 
+
+It is a member of numerous associations and forms part of the "golden triangle" of leading English universities and Cambridge University Health Partners, an academic health science centre. 
+0.6783685094789625	||	None	||	It	||	is	||	a member of numerous associations and forms part of the "golden triangle" of leading English universities and Cambridge University Health Partners; 
+0.886695286966665	||	None	||	It	||	is a member of	||	numerous associations and forms part; 
+
+As of 2017, Cambridge is ranked the world's fourth best university by three ranking tables and no other institution in the world ranks in the top 10 for as many subjects. 
+0.9534440626453463	||	None	||	Cambridge	||	is ranked	||	the world's fourth best university; As of 2017; 
+0.8650711633745519	||	None	||	no other institution in the world	||	ranks	||	in the top 10; 
+
+Cambridge is consistently ranked as the top university in the United Kingdom. 
+0.9324144673478683	||	None	||	Cambridge	||	is consistently ranked	||	as the top university in the United Kingdom; 
+
+The university has educated many notable alumni, including eminent mathematicians, scientists, politicians, lawyers, philosophers, writers, actors, and foreign Heads of State. 
+0.9472929138282772	||	None	||	The university	||	has educated	||	many notable alumni, including eminent mathematicians, scientists, politicians, lawyers, philosophers, writers, actors, and foreign Heads of State; 
+
+Ninety-five Nobel laureates, fifteen British prime ministers and ten Fields medalists have been affiliated with Cambridge as students, faculty, or alumni. 
+0.9710664042998135	||	None	||	Ninety-five Nobel laureates, fifteen British prime ministers and ten Fields medalists	||	have been affiliated	||	as students, faculty, or alumni; 

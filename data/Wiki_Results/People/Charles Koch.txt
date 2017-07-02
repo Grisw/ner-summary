@@ -1,0 +1,55 @@
+Charles de Ganahl Koch (born November 1, 1935) is an American businessman, political donor and philanthropist. 
+0.9538634956324158	||	None	||	Charles de Ganahl Koch	||	born	||	November 1; 
+0.961961301429607	||	None	||	Charles de Ganahl Koch (born November 1	||	is	||	an American businessman, political donor and philanthropist; 
+
+He is co-owner, chairman of the board, and chief executive officer of Koch Industries, while his brother David Koch serves as Executive Vice President. 
+0.6783685094789625	||	None	||	He	||	is	||	co-owner, chairman of the board, and chief executive officer of Koch Industries; 
+0.6420236436771103	||	None	||	his brother	||	serves	||	as Executive Vice President; 
+0.3853208301752743	||	None	||	David Koch	||	[is] brother [of]	||	him; 
+
+Charles and David each own 42% of the conglomerate. 
+
+
+The brothers inherited the business from their father, Fred C. 
+0.8348583869532935	||	None	||	The brothers	||	inherited	||	the business; from their father; 
+0.3852792713797816	||	None	||	Fred C.	||	[is] father [of]	||	theirs; 
+
+Koch, then expanded the business. 
+0.8990839209524873	||	None	||	Koch	||	expanded	||	the business; then; 
+
+Originally involved exclusively in oil refining and chemicals, Koch Industries now includes process and pollution control equipment and technologies; polymers and fibers; minerals; fertilizers; commodity trading and services; forest and consumer products; and ranching. 
+0.9683335768001807	||	None	||	Koch Industries	||	includes	||	process and pollution control equipment and technologies; polymers and fibers; minerals; fertilizers; commodity trading and services; forest and consumer products; and ranching; now; 
+
+The businesses produce a wide variety of well-known brands, such as Stainmaster carpet, the Lycra brand of spandex fiber, Quilted Northern tissue and Dixie Cup. 
+0.9472929138282772	||	None	||	The businesses	||	produce	||	a wide variety of well-known brands, such as Stainmaster carpet, the Lycra brand of spandex fiber, Quilted Northern tissue and Dixie Cup; 
+
+Koch Industries is the second-largest privately held company by revenue in the United States according to a 2010 Forbes survey. 
+0.9699974998635915	||	None	||	Koch Industries	||	is	||	the second-largest privately held company by revenue in the United States according to a 2010 Forbes survey; 
+
+In February 2014, Koch was ranked 9th richest person in the world by Hurun Report with an estimated net worth of $36 billion. 
+0.9269133328358691	||	None	||	Koch	||	was ranked	||	9th richest person; in the world; by Hurun Report; In February 2014; 
+
+Previously, in October 2012 he was ranked the 6th richest person in the world with an estimated net worth of $34 billion�Xaccording to the Bloomberg Billionaires Index�Xand was ranked 18th on Forbes World's Billionaires list of 2011 (and 4th on the Forbes 400), with an estimated net worth of $25 billion, deriving from his 42% stake in Koch Industries. 
+0.5318826144464953	||	None	||	he	||	was ranked	||	Previously; in October 2012; 
+0.9762345282244893	||	Some(Context(he was ranked,List([28, 41))))	||	the 6th richest person in the world with an estimated net worth of $34	||	was ranked	||	18th; on Forbes World's Billionaires list of 2011 (and 4th on; 
+0.9478321104829611	||	None	||	an estimated net worth of $34	||	billion�Xaccording	||	to the Bloomberg Billionaires Index�Xand; 
+
+Koch has published three books detailing his business philosophy, The Science of Success, Market Based Management, and Good Profit. 
+0.7620599808598616	||	None	||	Koch	||	has published	||	three books detailing his business philosophy,; 
+0.8348583869532935	||	None	||	three books	||	detailing	||	his business philosophy; 
+
+Koch supports a number of free market-oriented educational organizations, including the Institute for Humane Studies and the Mercatus Center at George Mason University. 
+0.9192653036176239	||	None	||	Koch	||	supports	||	a number of free market-oriented educational organizations, including the Institute for Humane Studies and the Mercatus Center at George Mason University; 
+0.38089450366724514	||	None	||	University	||	[is] Mason [of]	||	George; 
+
+He also contributes to the Republican Party and candidates, libertarian groups, and various charitable and cultural institutions. 
+0.5733539311623552	||	None	||	He	||	contributes	||	to the Republican Party and candidates, libertarian groups, and various charitable and cultural institutions; 
+
+He co-founded the Washington, DC-based Cato Institute. 
+0.4978219019954182	||	None	||	He	||	co-founded	||	the Washington, DC-based Cato Institute; 
+
+Through the Koch Cultural Trust, founded by Charles Koch's wife, Elizabeth, the Koch family has also funded artistic projects and creative artists. 
+0.9397001286877047	||	None	||	the Koch Cultural Trust	||	founded	||	by Charles Koch's wife; 
+0.9008079614035324	||	None	||	the Koch family	||	has funded	||	artistic projects and creative artists; 
+0.38089450366724514	||	None	||	Elizabeth	||	[is] wife [of]	||	Charles Koch; 
+0.38089450366724514	||	None	||	Elizabeth	||	[is] the family [of]	||	Koch; 

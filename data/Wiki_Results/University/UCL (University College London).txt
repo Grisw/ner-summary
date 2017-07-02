@@ -1,0 +1,52 @@
+University College London (UCL) is a public research university in London, England, and a constituent college of the federal University of London. 
+0.9678478279394086	||	None	||	University College London	||	is	||	a public research university in London, England, and a constituent college of the federal University of London; 
+
+It is the largest postgraduate institution in the UK by enrollment and is regarded as one of the world's leading multidisciplinary research universities. 
+0.5680679595514976	||	None	||	It	||	is	||	the largest postgraduate institution in the UK by enrollment; 
+0.5275899385541258	||	None	||	It	||	is regarded	||	as one of the world's leading multidisciplinary research universities; 
+
+Established in 1826 as London University by founders inspired by the radical ideas of Jeremy Bentham, UCL was the first university institution to be established in London, and the first in England to be entirely secular and to admit students regardless of their religion. 
+0.9105129651916236	||	None	||	founders	||	inspired	||	by the radical ideas of Jeremy Bentham; 
+0.9040259452709256	||	None	||	UCL	||	was	||	the first university institution to be established in London; 
+0.9314904193639496	||	None	||	the first university institution	||	to be established	||	in London; 
+
+UCL also makes the contested claims of being the third-oldest university in England[note 1] and the first to admit women.[note 2] In 1836 UCL became one of the two founding colleges of the University of London, which was granted a royal charter in the same year. 
+0.8810899789195208	||	None	||	UCL	||	makes	||	the contested claims of being the third-oldest university in England; 
+0.9399676802010513	||	Some(Context(UCL makes,List([0, 14))))	||	UCL	||	became	||	one of the two founding colleges of the University of London; In 1836; 
+0.928319312100383	||	None	||	the University of London	||	was granted	||	a royal charter; in the same year; 
+0.5682555286682759	||	None	||	the first	||	to admit	||	women; 
+
+It has grown through mergers, including with the Institute of Neurology (in 1997), the Royal Free Hospital Medical School (in 1998), the Eastman Dental Institute (in 1999), the School of Slavonic and East European Studies (in 1999), the School of Pharmacy (in 2012) and the Institute of Education (in 2014). 
+0.1948871917044894	||	None	||	It	||	has grown	||	
+
+UCL has its main campus in the Bloomsbury area of central London, with a number of institutes and teaching hospitals elsewhere in central London and a satellite campus in Doha, Qatar. 
+0.8912990774927839	||	None	||	UCL	||	has	||	its main campus in the Bloomsbury area of central London; 
+
+UCL is organised into 11 constituent faculties, within which there are over 100 departments, institutes and research centres. 
+0.8550806581371961	||	None	||	UCL	||	is organised	||	into 11 constituent faculties; 
+
+UCL operates several culturally significant museums and manages collections in a wide range of fields, including the Petrie Museum of Egyptian Archaeology and the Grant Museum of Zoology and Comparative Anatomy, and administers the annual Orwell Prize in political writing. 
+0.8550806581371961	||	None	||	UCL	||	operates	||	several culturally significant museums; 
+0.8329899967105379	||	None	||	UCL	||	manages	||	collections; 
+0.8571777395282005	||	None	||	UCL	||	administers	||	the annual Orwell Prize in political writing; 
+
+In 2015/16, UCL had around 38,300 students and 12,000 staff (including around 7,100 academic staff and 840 professors) and had a total income of ��1.36 billion, of which ��530 million was from research grants and contracts. 
+0.9573088457308272	||	None	||	UCL	||	had	||	around 38,300 students and 12,000 staff (including around 7,100 academic staff and 840 professors; In 2015/16; 
+0.9498880088912645	||	None	||	UCL	||	had	||	a total income of ��1.36 billion, of which ��530 million was from research grants and contracts; In 2015/16; 
+0.6793285496932128	||	None	||	of which ��530 million	||	was	||	from research grants and contracts; 
+
+UCL ranks highly in national and international league tables and its graduates rank among the most employable in the world. 
+0.8867237254315935	||	None	||	UCL	||	ranks	||	highly; in national and international league tables; 
+0.7005288659799959	||	None	||	its graduates	||	rank	||	among the most employable in the world; 
+
+UCL alumni include the "Father of the Nation" of each of India, Kenya and Mauritius, the founders of Ghana, modern Japan and Nigeria, the inventor of the telephone, and one of the co-discoverers of the structure of DNA. 
+0.9472929138282772	||	None	||	UCL alumni	||	include	||	the "Father of the Nation" of each of India, Kenya and Mauritius, the founders of Ghana, modern Japan and Nigeria; 
+
+UCL academics discovered five of the naturally occurring noble gases, co-discovered hormones, invented the vacuum tube, and made several foundational advances in modern statistics. 
+0.9266232318014763	||	None	||	UCL academics	||	discovered	||	five of the naturally occurring noble gases; 
+0.9143456855143793	||	None	||	UCL academics	||	invented	||	the vacuum tube; 
+
+There are at least 29 Nobel Prize winners and 3 Fields medalists amongst UCL's alumni and current and former staff.[note 3] UCL is a member of numerous academic organisations, including the Russell Group, and is part of UCL Partners, the world's largest academic health science centre, and the 'golden triangle' of research-intensive English universities. 
+0.8884226599246497	||	None	||	UCL	||	is	||	part of UCL Partners; 
+0.9236371817974371	||	None	||	UCL	||	is	||	a member of numerous academic organisations, including the Russell Group; 
+0.3853208301752743	||	None	||	note 3 ] UCL	||	is a member of	||	numerous academic organisations; 

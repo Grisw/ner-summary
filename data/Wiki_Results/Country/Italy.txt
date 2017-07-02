@@ -1,0 +1,115 @@
+Italy, officially the Italian Republic (Italian: Repubblica italiana), is a unitary parliamentary republic in Europe.[note 1] Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. 
+
+
+Italy covers an area of 301,338 km2 (116,347 sq mi) and has a largely temperate seasonal climate and Mediterranean climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot). 
+0.9392901325936276	||	None	||	Italy	||	has	||	a largely temperate seasonal climate and Mediterranean climate; 
+0.4258913882219478	||	None	||	it	||	is referred	||	in Italy; as lo Stivale; often; 
+0.8982330273114404	||	Some(Context(it is referred,List([142, 162))))	||	Italy	||	covers	||	an area of 301,338 km2; 
+
+With 61 million inhabitants, it is the fourth most populous EU member state. 
+0.5680679595514976	||	None	||	it	||	is	||	the fourth most populous EU member state; 
+
+Since classical times, ancient Phoenicians, Carthaginians, and Greeks established settlements in the south of Italy, with Etruscans and Celts inhabiting the centre and north of Italy respectively and various different ancient Italian tribes and Italic peoples dispersed throughout the Italian Peninsula and insular Italy. 
+0.9860277312738555	||	None	||	ancient Phoenicians, Carthaginians, and Greeks	||	established	||	settlements in the south of Italy; with Etruscans and Celts inhabiting the centre and north of Italy respectively and various different ancient Italian tribes and Italic peoples; Since classical times; 
+0.942094328869103	||	None	||	Etruscans and Celts	||	inhabiting respectively	||	the centre and north of Italy; 
+0.9180804252893389	||	None	||	Italic peoples	||	dispersed	||	throughout the Italian Peninsula and insular Italy; 
+
+The Italic tribe known as the Latins formed the Roman Kingdom, which eventually became a republic that conquered and assimilated other nearby civilisations. 
+0.9424519621637973	||	None	||	The Italic tribe	||	known	||	as the Latins formed the Roman Kingdom; 
+0.9382554258342916	||	None	||	the Latins	||	formed	||	the Roman Kingdom; 
+0.8846837999251147	||	None	||	the Roman Kingdom	||	became	||	a republic that conquered and assimilated other nearby civilisations; eventually; 
+0.6981802672629641	||	None	||	a republic	||	conquered	||	
+0.8872966301155124	||	None	||	a republic	||	assimilated	||	other nearby civilisations; 
+
+Rome ultimately emerged as the dominant power in the Mediterranean basin, conquering much of the ancient world and becoming the leading cultural, political, and religious centre of Western civilisation. 
+0.9413036920087895	||	None	||	Rome	||	emerged	||	as the dominant power; in the Mediterranean basin; ultimately; 
+0.8296791982605732	||	Some(Context(Rome emerged,List([0, 23))))	||	Rome	||	emerged as the dominant power conquering	||	much of the ancient world; 
+
+The legacy of the Roman Empire is widespread and can be observed in the global distribution of civilian law, republican governments, Christianity and the Latin script. 
+0.8968341775096285	||	None	||	The legacy of the Roman Empire	||	is	||	widespread; 
+0.9401624716630546	||	None	||	The legacy of the Roman Empire	||	can be observed	||	in the global distribution of civilian law; 
+
+During the Middle Ages, Italy suffered sociopolitical collapse amid calamitous barbarian invasions, but by the 11th century, numerous rival city-states and maritime republics rose to great prosperity through shipping, commerce, and banking, laying down the groundwork for modern capitalism. 
+0.9610033692204465	||	None	||	Italy	||	suffered	||	sociopolitical collapse; amid calamitous barbarian invasions; During the Middle Ages; 
+0.9674342267358336	||	None	||	numerous rival city-states and maritime republics	||	rose	||	to great prosperity; through shipping, commerce, and banking; by the 11th century; 
+
+These independent statelets, acting as Europe's main trading hubs with Asia and the Near East, often enjoyed a greater degree of democracy and wealth in comparison to the larger feudal monarchies that were consolidating throughout Europe at the time, though much of central Italy remained under the control of the theocratic Papal States, while Southern Italy remained largely feudal until the 19th century, partially as a result of a succession of Byzantine, Arab, Norman, Spanish, and Bourbon conquests of the region. 
+0.9199569125504766	||	None	||	the larger feudal monarchies	||	were consolidating	||	throughout Europe; at the time; 
+0.9485479188231729	||	None	||	much of central Italy	||	remained	||	under the control of the theocratic Papal States; 
+0.9605824069728295	||	None	||	Southern Italy	||	remained	||	largely feudal; until the 19th century; partially as a result of a succession of Byzantine, Arab, Norman, Spanish, and Bourbon conquests of the region; 
+0.990129118522957	||	None	||	These independent statelets, acting as Europe's main trading hubs with Asia and the Near East	||	enjoyed	||	a greater degree of democracy and wealth in comparison to the larger feudal monarchies; often; 
+0.9279673735441892	||	Some(Context(These independent statelets , acting as Europe 's main trading hubs with Asia and the Near East enjoyed,List([0, 108))))	||	These independent statelets	||	acting	||	as Europe's main trading hubs with Asia and the Near East; 
+
+The Renaissance began in Italy and spread to the rest of Europe, bringing a renewed interest in humanism, science, exploration and art. 
+0.9382554258342916	||	None	||	The Renaissance	||	began	||	in Italy; 
+0.9277724913494431	||	None	||	The Renaissance	||	spread	||	to the rest of Europe; 
+0.9448099197148634	||	None	||	The Renaissance	||	bringing	||	a renewed interest in humanism, science, exploration and art; 
+
+Italian culture flourished at this time, producing famous scholars, artists and polymaths such as Leonardo da Vinci, Galileo, Michelangelo and Machiavelli. 
+0.9030401971054747	||	None	||	Italian culture	||	flourished	||	at this time; 
+0.9382433616531214	||	None	||	Italian culture	||	producing	||	famous scholars, artists and polymaths such as Leonardo da Vinci, Galileo, Michelangelo and Machiavelli; 
+
+Italian explorers such as Marco Polo, Christopher Columbus, Amerigo Vespucci and Giovanni da Verrazzano discovered new routes to the Far East and the New World, helping to usher in the European Age of Discovery. 
+0.9508717494786652	||	None	||	Italian explorers such as Marco Polo, Christopher Columbus, Amerigo Vespucci and Giovanni da Verrazzano	||	discovered	||	new routes; 
+0.9382940739214876	||	Some(Context(Italian explorers such as Marco Polo , Christopher Columbus , Amerigo Vespucci and Giovanni da Verrazzano discovered,List([0, 114))))	||	Italian explorers such as Marco Polo, Christopher Columbus, Amerigo Vespucci and Giovanni da Verrazzano	||	discovered new routes helping	||	to usher in the European Age of Discovery; 
+
+Nevertheless, Italy's commercial and political power significantly waned with the opening of the Atlantic trade route and the route to the Indian Ocean via the Cape of Good Hope, that bypassed the Mediterranean. 
+0.8452337900879183	||	None	||	Italy's commercial and political power	||	significantly waned	||	
+0.9277724913494431	||	None	||	Good Hope	||	bypassed	||	the Mediterranean; 
+
+Furthermore, the Italian city-states constantly engaged one another in bloody warfare, culminating in the Italian Wars of the 15th and 16th centuries, that left them exhausted, with no one emerging as a dominant power. 
+0.9256263201643982	||	None	||	the Italian city-states	||	constantly engaged	||	one another; in bloody warfare; 
+0.9530554428592474	||	None	||	the Italian city-states	||	culminating	||	in the Italian Wars of the 15th and 16th centuries; 
+0.9379636683194408	||	None	||	the Italian Wars of the 15th and 16th centuries	||	left	||	them; exhausted; 
+0.9030401971054747	||	None	||	no one	||	emerging	||	as a dominant power; 
+
+The weakened sovereigns soon fell victim to conquest by European powers such as France, Spain, and Austria, subsequently entering a long period of decline. 
+0.9754034492213237	||	None	||	The weakened sovereigns	||	fell	||	victim; to conquest by European powers such as France, Spain, and Austria; soon; 
+0.9393558870691942	||	None	||	The weakened sovereigns	||	entering	||	a long period of decline; subsequently; 
+
+By the mid-19th century, a rising movement in support of Italian nationalism and independence from foreign control led to a period of revolutionary political upheaval known as the Risorgimento, which sought the formation of a unified nation-state. 
+0.9845903851421077	||	None	||	a rising movement in support of Italian nationalism and independence from foreign control	||	led	||	to a period of revolutionary political upheaval; By the mid-19th century; 
+0.9424519621637973	||	None	||	revolutionary political upheaval	||	known	||	as the Risorgimento; 
+0.9143456855143793	||	None	||	the Risorgimento	||	sought	||	the formation of a unified nation-state; 
+
+After various unsuccessful attempts, the Italian Wars of Independence and the Expedition of the Thousand resulted in the eventual unification of the country in 1861, now a great power after centuries of foreign domination and political division. 
+0.981760406825719	||	None	||	the Italian Wars of Independence and the Expedition of the Thousand	||	resulted	||	in the eventual unification of the country in 1861; After various unsuccessful attempts; 
+
+From the late 19th century to the early 20th century, the new Kingdom of Italy rapidly industrialised, although mainly in the north, and acquired a colonial empire, while the south remained largely impoverished and excluded from industrialisation, fuelling a large and influential diaspora. 
+0.9757816515280282	||	None	||	the new Kingdom of Italy	||	rapidly industrialised	||	although mainly in the north; From the late 19th century to the early 20th century; 
+0.9581173438347073	||	None	||	the new Kingdom of Italy	||	acquired	||	a colonial empire; while the south remained largely impoverished and excluded from industrialisation, fuelling a large and influential diaspora; 
+0.7665350501724939	||	None	||	the south	||	remained	||	largely impoverished; 
+0.8872966301155124	||	None	||	the south	||	excluded	||	from industrialisation; 
+
+Despite being one of the main victors in World War I, Italy entered a period of economic crisis and social turmoil, leading the way to the rise of a Fascist dictatorship in 1922. 
+0.8982330273114404	||	None	||	Italy	||	entered	||	a period of economic crisis and social turmoil; 
+0.852130044887511	||	Some(Context(Italy entered,List([54, 67))))	||	Italy	||	entered a period of economic crisis and social turmoil leading	||	the way; to the rise of a Fascist dictatorship in 1922; 
+
+The subsequent participation in World War II on the Axis side ended in military defeat, economic destruction and an Italian civil war. 
+0.9613449658139628	||	None	||	The subsequent participation in World War II on the Axis side	||	ended	||	in military defeat, economic destruction and an Italian civil war; 
+
+Following the Liberation of Italy and the rise of the Resistance, the country abolished the monarchy, reinstated democracy, enjoyed a prolonged economic boom, and, despite periods of sociopolitical turmoil (e.g. 
+0.9697920821317396	||	None	||	the country	||	abolished	||	the monarchy; Following the Liberation of Italy and the rise of the Resistance; 
+0.8872966301155124	||	None	||	the country	||	reinstated	||	democracy; 
+0.8872966301155124	||	None	||	the country	||	enjoyed	||	a prolonged economic boom; 
+
+Anni di piombo, Mani pulite, the Second Mafia War, the Maxi Trial and subsequent assassinations of anti-mafia officials), became a major developed country. 
+0.9714596481836107	||	None	||	the Second Mafia War, the Maxi Trial and subsequent assassinations of anti-mafia officials	||	became	||	a major developed country; 
+
+Today, Italy has the third largest economy in the Eurozone and the eighth largest in the world. 
+0.9812842971279687	||	None	||	Italy	||	has	||	the third largest economy in the Eurozone and the eighth largest in the world; Today; 
+
+It has a very high level of human development and is ranked sixth in the world for life expectancy. 
+0.5222094630377523	||	None	||	It	||	has	||	a very high level of human development; 
+0.41051436014453063	||	None	||	It	||	is ranked	||	sixth; in the world; for life expectancy; 
+
+The country plays a prominent role in regional and global economic, military, cultural and diplomatic affairs, and it is both a regional power and a great power. 
+0.9372494423173455	||	None	||	The country	||	plays	||	a prominent role in regional and global economic, military, cultural and diplomatic affairs; 
+0.5222094630377523	||	None	||	it	||	is	||	both a regional power and a great power; 
+
+Italy is a founding and leading member of the European Union and the member of numerous international institutions, including the UN, NATO, the OECD, the OSCE, the WTO, the G7/G8, G20, the Union for the Mediterranean, the Council of Europe, Uniting for Consensus, and many more. 
+0.9670538616899376	||	None	||	Italy	||	is	||	a founding and leading member of the European Union and the member of numerous international institutions, including the UN, NATO, the OECD, the OSCE, the WTO, the G7/G8; 
+
+As a reflection of its cultural wealth, Italy is home to 51 World Heritage Sites, the most in the world, and is the fifth most visited country. 
+0.9481947648689547	||	None	||	Italy	||	is	||	home to 51 World Heritage Sites; 
+0.9278378769051351	||	None	||	Italy	||	is	||	the fifth most visited country; 

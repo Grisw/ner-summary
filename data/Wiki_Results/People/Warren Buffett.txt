@@ -1,0 +1,50 @@
+Warren Edward Buffett (born August 30, 1930) is an American business magnate, investor, and philanthropist. 
+0.949419443712137	||	None	||	Warren Edward Buffett	||	born	||	August 30; 
+0.9582631324958855	||	None	||	Warren Edward Buffett (born August 30	||	is	||	an American business magnate, investor, and philanthropist; 
+
+He is considered by some to be one of the most successful investors in the world, and as of March 2017 is the second wealthiest person in the United States with a total net worth of $78.7 billion. 
+0.41051436014453063	||	None	||	He	||	to be	||	one of the most successful investors in the world; 
+0.9751389598371145	||	None	||	as of March 2017	||	is	||	the second wealthiest person in the United States with a total net worth of $78.7 billion; 
+
+Born in Omaha, Buffet developed an interest in business and investing in his youth, eventually entering the Wharton School of the University of Pennsylvania in 1947 before transferring and graduating from University of Nebraska�VLincoln. 
+0.8402708408862619	||	None	||	Buffet	||	investing	||	in his youth; 
+0.9709360921688014	||	None	||	Buffet	||	entering	||	the Wharton School of the University of Pennsylvania in 1947; before transferring and graduating from University of Nebraska�VLincoln; eventually; 
+
+After graduating at 19, Buffet enrolled at Columbia Business School of Columbia University, learning and eventually creating his investment philosophy around a concept pioneered by Benjamin Graham�Vvalue investing. 
+0.9610033692204465	||	None	||	Buffet	||	enrolled	||	at Columbia Business School of Columbia University; After graduating at 19; 
+0.9180804252893389	||	None	||	a concept	||	pioneered	||	by Benjamin Graham�Vvalue; 
+0.7877083798986204	||	None	||	Benjamin Graham�Vvalue	||	investing	||	
+
+He attended New York Institute of Finance to specialize his economics background and soon after began various business partnerships, including one with Graham. 
+0.5994937517389187	||	None	||	He	||	began	||	various business partnerships, including one with Graham; soon; after; 
+0.2929110702089528	||	None	||	He	||	attended	||	New York Institute of Finance; to specialize his economics background; 
+0.2560951955542683	||	Some(Context(He attended,List([0, 11))))	||	He	||	attended New York Institute of Finance to specialize	||	his economics background; 
+
+After meeting Charlie Munger, Buffet created the Buffett Partnership. 
+0.9610033692204465	||	None	||	Buffet	||	created	||	the Buffett Partnership; After meeting Charlie Munger; 
+
+His firm would eventually acquire a textile manufacturing firm called Berkshire Hathaway and assume its name to create a diversified holding company. 
+0.7121788846140185	||	None	||	His firm	||	would acquire	||	a textile manufacturing firm called Berkshire Hathaway; eventually; 
+0.9314904193639496	||	None	||	a textile manufacturing firm	||	called	||	Berkshire Hathaway; 
+0.5910213281552438	||	None	||	His firm	||	assume	||	its name; to create a diversified holding company; eventually; 
+
+Buffet has been the chairman and largest shareholder of Berkshire Hathaway since 1970, and his business exploits have had him referred to as the "Wizard", "Oracle" or "Sage" of Omaha by global media outlets. 
+0.9197759696552441	||	None	||	Buffet	||	has been	||	the chairman and largest; since 1970; 
+0.6196051938911981	||	None	||	his business exploits	||	have had	||	him referred to as the "Wizard", "Oracle" or "Sage" of Omaha by global media outlets; 
+0.5600415811619095	||	Some(Context(his business exploits have had,List([91, 121))))	||	him	||	referred	||	to; as the "Wizard", "Oracle" or "Sage" of Omaha by global media outlets; 
+
+He is noted for his adherence to value investing and for his personal frugality despite his immense wealth. 
+0.41763505952380825	||	None	||	He	||	is noted	||	for his adherence to value investing and for his personal frugality; 
+
+Buffett is a notable philanthropist, having pledged to give away 99 percent of his fortune to philanthropic causes, primarily via the Bill & Melinda Gates Foundation. 
+0.9383119524695255	||	None	||	Buffett	||	is	||	a notable philanthropist; 
+
+He is also active in contributing to political causes, having endorsed Democratic candidate Hillary Clinton in the 2016 U.S. 
+0.45170382506656653	||	None	||	He	||	is also	||	active in contributing to political causes; 
+0.41051436014453063	||	None	||	He	||	in contributing	||	to political causes; 
+
+presidential election; he has publicly opposed the policies, actions, and statements of the current U.S. 
+0.6138676038426771	||	None	||	he	||	has publicly opposed	||	the policies, actions, and statements of the current U.S.; 
+
+president, Donald Trump. 
+

@@ -1,0 +1,30 @@
+Jeff Bezos ( born Jeffrey Preston Jorgensen; January 12, 1964) is an American technology and retail entrepreneur and investor. 
+0.9582631324958855	||	None	||	Jeff Bezos ( born Jeffrey Preston Jorgensen	||	is	||	an American technology and retail entrepreneur and investor; 
+
+He is the founder, chairman, and chief executive officer of Amazon.com, which has become the world's largest online shopping retailer. 
+0.6367319478431899	||	None	||	He	||	is	||	the founder, chairman, and chief executive officer of Amazon.com, which has become the world's largest online shopping retailer; 
+0.9494593033818106	||	None	||	the founder, chairman, and chief executive officer of Amazon.com	||	has become	||	the world's largest online shopping retailer; 
+
+The company began as an Internet merchant of books and expanded to a wide variety of products and services, most recently video streaming and audio streaming. 
+0.9030401971054747	||	None	||	The company	||	began	||	as an Internet merchant of books; 
+0.8872966301155124	||	None	||	The company	||	expanded	||	to a wide variety of products and services; 
+
+Amazon.com is currently the world's largest Internet sales company on the World Wide Web. 
+0.7536505512855626	||	None	||	Amazon.com	||	is	||	currently; the world's largest Internet sales company on the World Wide Web; 
+
+Bezos��s other diversified business interests include aerospace and newspapers. 
+
+
+He is the founder and manufacturer of Blue Origin (founded in 2000) with test flights to space beginning in 2015, and plans for commercial suborbital human spaceflight beginning in 2018. 
+0.5680679595514976	||	None	||	He	||	is	||	the founder and manufacturer of Blue Origin; 
+0.8591720430378276	||	None	||	the founder and manufacturer of Blue Origin	||	founded	||	in 2000; 
+0.7993302626692174	||	None	||	test flights to space	||	beginning	||	in 2015; 
+
+In 2013, Bezos purchased The Washington Post newspaper. 
+0.9610033692204465	||	None	||	Bezos	||	purchased	||	The Washington Post newspaper; In 2013; 
+
+A number of other business investments are managed through Bezos Expeditions. 
+0.8011071574832577	||	None	||	A number of other business investments	||	are managed	||	
+
+Bezos currently ranks as the 5th richest person in the world (excluding royalty and dictators), with an estimated net worth of $71.8 billion USD as of January 2017, just behind fellow Americans, investment mogul Warren Buffett in third, and Bill Gates in first. 
+0.9735674864939629	||	None	||	Bezos	||	ranks	||	as the 5th richest person in the world (excluding royalty and dictators; currently; 

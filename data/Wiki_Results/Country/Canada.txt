@@ -1,0 +1,86 @@
+Canada is a country in the northern half of North America. 
+0.9481947648689547	||	None	||	Canada	||	is	||	a country in the northern half of North America; 
+
+Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area and the fourth-largest country by land area. 
+0.7574480985741016	||	None	||	Its ten provinces and three territories	||	extend	||	from the Atlantic; to the Pacific; 
+
+Canada's border with the United States is the world's longest land border. 
+0.9644901025626478	||	None	||	Canada's border with the United States	||	is	||	the world's longest land border; 
+
+The majority of the country has a cold or severely cold winter climate, but southerly areas are warm in summer. 
+0.9428944879517785	||	None	||	The majority of the country	||	has	||	a cold or severely cold winter climate; 
+0.9030401971054747	||	None	||	southerly areas	||	are	||	warm; in summer; 
+
+Canada is sparsely populated, the majority of its land territory being dominated by forest and tundra and the Rocky Mountains. 
+0.8428211120858269	||	None	||	Canada	||	is	||	sparsely populated; 
+0.7003240400067219	||	None	||	its land territory	||	being dominated	||	by forest and tundra and the Rocky Mountains; 
+
+It is highly urbanized with 82 per cent of the 35.15 million people concentrated in large and medium-sized cities, many near the southern border. 
+0.6367319478431899	||	None	||	It	||	is	||	highly urbanized with 82 per cent of the 35.15 million people; 
+0.9477002800201834	||	None	||	the 35.15 million people	||	concentrated	||	in large and medium-sized cities, many near the southern border; 
+
+One third of the population lives in the three largest cities: Toronto, Montreal and Vancouver. 
+0.9256263201643982	||	None	||	One third of the population	||	lives	||	in the three largest cities; 
+
+Its capital is Ottawa, and other major urban areas include Calgary, Edmonton, Quebec City, Winnipeg and Hamilton. 
+0.7378635968700462	||	None	||	Its capital	||	is	||	Ottawa; 
+0.9561493139640403	||	None	||	other major urban areas	||	include	||	Calgary, Edmonton, Quebec City, Winnipeg and Hamilton; 
+
+Various aboriginal peoples had inhabited what is now Canada for thousands of years prior to European colonization. 
+0.9406558014434188	||	None	||	Various aboriginal peoples	||	had inhabited	||	what is now Canada for thousands of years prior to European colonization; 
+
+Beginning in the 16th century, British and French claims were made on the area, with the colony of Canada first being established by the French in 1534. 
+0.9653217919172886	||	None	||	the colony of Canada	||	being established	||	by the French; in 1534; first; 
+
+As a consequence of various conflicts, Great Britain gained and lost territories within British North America until it was left, in the late 18th century, with what mostly geographically comprises Canada today. 
+0.7877083798986204	||	None	||	Great Britain	||	gained	||	
+0.1948871917044894	||	None	||	it	||	was left	||	
+
+Pursuant to the British North America Act, on July 1, 1867, the colonies of Canada, New Brunswick, and Nova Scotia joined to form the semi-autonomous federal Dominion of Canada. 
+
+
+This began an accretion of provinces and territories to the mostly self-governing Dominion to the present ten provinces and three territories forming modern Canada. 
+0.5426967497281026	||	None	||	This	||	began	||	an accretion of provinces and territories to the mostly self-governing Dominion to the present ten provinces and three territories; 
+
+In 1931, Canada achieved near total independence from the United Kingdom with the Statute of Westminster 1931, but at the time, Canada decided to allow the British Parliament to temporarily retain the power to amend Canada's constitution, on request from the Parliament of Canada. 
+0.8574981706501229	||	None	||	Canada	||	achieved	||	In 1931; 
+0.9681777807375632	||	None	||	Canada	||	decided	||	to allow the British Parliament to temporarily retain the power; at the time; 
+0.9139478779591064	||	Some(Context(Canada decided,List([128, 142))))	||	Canada	||	decided to allow	||	the British Parliament to temporarily retain the power; 
+0.9601580785387867	||	Some(Context(Canada decided to allow,List([128, 151))))	||	the British Parliament	||	to retain	||	the power to amend Canada's constitution, on request from the Parliament of Canada; temporarily; 
+
+With the Constitution Act 1982, Canada took over that authority (as the conclusion of Patriation), removing the last remaining ties of legal dependence on the Parliament of the United Kingdom, giving the country full sovereignty. 
+0.7632634518064401	||	None	||	Canada	||	took over	||	that authority; 
+0.9174954221596651	||	Some(Context(Canada took over,List([32, 48))))	||	Canada	||	took over that authority removing	||	the last remaining ties of legal dependence on the Parliament of the United Kingdom; 
+0.852130044887511	||	Some(Context(Canada took over,List([32, 48))))	||	Canada	||	took over that authority giving	||	the country; full sovereignty; 
+
+Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II being the head of state. 
+0.9383119524695255	||	None	||	Canada	||	is	||	a federal parliamentary democracy and a constitutional monarchy; 
+0.9329286852051247	||	None	||	Queen Elizabeth II	||	being	||	the head of state; 
+0.3853208301752743	||	None	||	Queen Elizabeth II	||	being the head of	||	state; 
+
+The country is officially bilingual at the federal level. 
+0.9251282565798027	||	None	||	The country	||	is	||	officially bilingual at the federal level; 
+
+It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many other countries. 
+0.6367319478431899	||	None	||	It	||	is	||	one of the world's most ethnically diverse and multicultural nations; 
+
+Its advanced economy is the eleventh largest in the world, relying chiefly upon its abundant natural resources and well-developed international trade networks. 
+0.7204007205331314	||	None	||	Its advanced economy	||	is	||	the eleventh largest in the world; 
+
+Canada's long and complex relationship with the United States has had a significant impact on its economy and culture. 
+0.9369078725565775	||	None	||	Canada's long and complex relationship with the United States	||	has had	||	a significant impact on its economy and culture; 
+
+Canada is a developed country and has the tenth highest nominal per capita income globally as well as the ninth highest ranking in the Human Development Index. 
+0.9383119524695255	||	None	||	Canada	||	is	||	a developed country; 
+0.9040361506104404	||	None	||	Canada	||	has globally	||	the tenth highest nominal per capita income; 
+0.5898102672166055	||	None	||	highest	||	ranking	||	in the Human Development Index; 
+
+It ranks among the highest in international measurements of government transparency, civil liberties, quality of life, economic freedom, and education. 
+0.6367319478431899	||	None	||	It	||	ranks	||	among the highest in international measurements of government transparency, civil liberties, quality of life, economic freedom, and education; 
+
+Canada is a Commonwealth realm member of the Commonwealth of Nations, a member of the Francophonie, and part of several major international and intergovernmental institutions or groupings including the United Nations, the North Atlantic Treaty Organization, the G8, the Group of Ten, the G20, the North American Free Trade Agreement and the Asia-Pacific Economic Cooperation forum. 
+0.9670538616899376	||	None	||	Canada	||	is	||	a Commonwealth realm member of the Commonwealth of Nations, a member of the Francophonie, and part of several major international and intergovernmental institutions or groupings including the United Nations, the North Atlantic Treaty Organization, the G8, the Group of Ten, the G20, the North American Free Trade Agreement and the Asia-Pacific Economic Cooperation forum; 
+0.38089450366724514	||	None	||	Nations	||	[is] a member of	||	the Francophonie; 
+
+Canada is an influential nation in the world, primarily due to its inclusive values, years of prosperity and stability, stable economy, and efficient military. 
+0.9383119524695255	||	None	||	Canada	||	is	||	an influential nation in the world; 

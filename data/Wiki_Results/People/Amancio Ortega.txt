@@ -1,0 +1,11 @@
+Amancio Ortega Gaona (born 12 March 1936) is a Spanish business tycoon. 
+0.949419443712137	||	None	||	Amancio Ortega Gaona	||	born	||	12 March 1936; 
+0.9397554176335701	||	None	||	Amancio Ortega Gaona	||	is	||	a Spanish business tycoon; 
+
+He is the founder and former chairman of Inditex fashion group, best known for its chain of Zara clothing and accessories retail shops. 
+0.5680679595514976	||	None	||	He	||	is	||	the founder and former chairman of Inditex fashion group; 
+0.9320352983935192	||	None	||	the founder and former chairman of Inditex fashion group	||	best known	||	for its chain of Zara clothing; 
+0.41051436014453063	||	None	||	He	||	accessories	||	retail shops; 
+
+According to Forbes Magazine, he is currently the richest person in Europe and the second richest in the world with an estimated net worth of $72.8 billion as of February 2017. 
+0.6783685094789625	||	None	||	he	||	is	||	currently; the richest person in Europe and the second richest in the world with an estimated net worth of $72.8 billion as of February 2017; 

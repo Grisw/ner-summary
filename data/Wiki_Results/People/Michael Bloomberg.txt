@@ -1,0 +1,67 @@
+Michael Rubens "Mike" Bloomberg (born February 14, 1942) is an American businessman, author, politician, and philanthropist. 
+0.9616605215587688	||	None	||	Michael Rubens "Mike" Bloomberg	||	born	||	February 14; 
+0.9709545082585985	||	None	||	Michael Rubens "Mike" Bloomberg	||	is	||	an American businessman, author, politician, and philanthropist; 
+
+His net worth is estimated at US$46.5 billion, as of February 2017, ranking him as the 6th richest person in the United States and the 8th richest person in the world. 
+0.40640256215258874	||	None	||	His net worth	||	is estimated	||	at US$46.5 billion; 
+
+Bloomberg is the founder, CEO, and owner of Bloomberg L.P., a global financial services, mass media, and software company that bears his name, and is notable for its Bloomberg Terminal, a computer software system providing financial data widely used in the global financial services industry. 
+0.9670538616899376	||	None	||	Bloomberg	||	is	||	the founder, CEO, and owner of Bloomberg L.P.; 
+0.9106910461000449	||	None	||	a global financial services, mass media, and software company	||	bears	||	his name; 
+0.8192566902456899	||	None	||	Bloomberg	||	is	||	notable; 
+0.9477002800201834	||	None	||	a computer software system	||	providing	||	financial data widely used in the global financial services industry; 
+0.9030401971054747	||	None	||	financial data	||	widely used	||	in the global financial services industry; 
+
+He began his career at the securities brokerage Salomon Brothers, before forming his own company in 1981 and spending the next twenty years as its chairman and CEO. 
+0.2929110702089528	||	None	||	He	||	began	||	his career; at the securities brokerage Salomon Brothers; 
+0.183516546672029	||	Some(Context(He began,List([0, 8))))	||	He	||	began his career before forming	||	his own company; in 1981; 
+0.183516546672029	||	Some(Context(He began,List([0, 8))))	||	He	||	began his career spending	||	the next twenty years; as its chairman and CEO; 
+
+Bloomberg also served as chairman of the board of trustees at his alma mater, Johns Hopkins University, from 1996 to 2002. 
+0.894027419707381	||	None	||	Bloomberg	||	served	||	as chairman of the board of trustees at his alma mater; 
+
+Bloomberg served as the 108th Mayor of New York City, holding office for three consecutive terms, beginning with his first election in 2001. 
+0.9139478779591064	||	None	||	Bloomberg	||	served	||	as the 108th Mayor of New York City; 
+0.852130044887511	||	Some(Context(Bloomberg served,List([0, 16))))	||	Bloomberg	||	served as the 108th Mayor of New York City holding	||	office; for three consecutive terms; 
+
+A Democrat before seeking elective office, Bloomberg switched his party registration in 2001 to run for Mayor as a Republican. 
+0.8821938819052391	||	None	||	Bloomberg	||	switched	||	his party registration; in 2001; to run for Mayor as a Republican; 
+
+He defeated opponent Mark Green in a close election held just weeks after the September 11 terrorist attacks. 
+0.4978219019954182	||	None	||	He	||	defeated	||	opponent Mark Green; in a close election; 
+0.9424519621637973	||	None	||	a close election	||	held	||	just weeks after the September 11 terrorist attacks; 
+
+He won a second term in 2005, and left the Republican Party two years later. 
+0.5222094630377523	||	None	||	He	||	won	||	a second term; in 2005; 
+0.5264558301022617	||	None	||	He	||	left	||	the Republican Party; two years later; 
+
+Bloomberg campaigned to change the city's term limits law, and was elected to his third term in 2009 as an Independent candidate on the Republican ballot line. 
+0.9103268656654123	||	None	||	Bloomberg	||	was elected	||	to his third term in 2009 as an Independent candidate on the Republican ballot line; 
+0.9017692064117712	||	None	||	Bloomberg	||	campaigned	||	to change the city's term limits law; 
+0.9017692064117712	||	Some(Context(Bloomberg campaigned,List([0, 20))))	||	Bloomberg	||	campaigned to change	||	the city's term limits law; 
+
+Bloomberg was frequently mentioned as a possible candidate for the U.S. 
+0.9414844166000865	||	None	||	Bloomberg	||	was mentioned	||	as a possible candidate for the U.S.; frequently; 
+
+Presidential elections in 2008, and 2012, as well as for Governor of New York in 2010. 
+
+
+He declined to seek either office, opting to continue serving as the Mayor of New York City. 
+0.5600415811619095	||	None	||	He	||	declined	||	to seek either office, opting to continue serving as the Mayor of New York City; 
+0.39746064682094406	||	Some(Context(He declined,List([0, 11))))	||	He	||	declined to seek	||	either office; 
+
+On January 1, 2014, Bill de Blasio succeeded Bloomberg as the Mayor of New York City. 
+0.9676347051283354	||	None	||	Bill de Blasio	||	succeeded	||	Bloomberg; as the Mayor of New York City; On January 1; 
+
+After a brief stint as a full-time philanthropist, Bloomberg re-assumed the position of CEO at Bloomberg L.P. 
+0.9753210026959435	||	None	||	Bloomberg	||	re-assumed	||	the position of CEO at Bloomberg L.P.; After a brief stint as a full-time philanthropist; 
+
+by the end of 2014. 
+
+
+On March 7, 2016, Bloomberg announced that he would not run as a third party candidate in the 2016 U.S. 
+0.8578017210754282	||	None	||	Bloomberg	||	announced	||	that he would not run as a third party candidate in the 2016 U.S.; On March 7; 
+0.4328394458044063	||	Some(Context(Bloomberg announced,List([18, 37))))	||	he	||	would not run	||	as a third party candidate in the 2016 U.S.; 
+
+presidential election despite widespread speculation that he would, and later endorsed Democratic nominee Hillary Clinton for president. 
+0.851203700854949	||	None	||	presidential election despite widespread speculation that he would	||	endorsed	||	Democratic nominee Hillary Clinton; later; 

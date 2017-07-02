@@ -1,0 +1,41 @@
+Lawrence Joseph "Larry" Ellison (born August 17, 1944) is an American businessman, entrepreneur, and philanthropist who is co-founder of Oracle Corporation and was CEO from its founding until September 2014. 
+0.9616605215587688	||	None	||	Lawrence Joseph "Larry" Ellison	||	born	||	August 17; 
+0.9542225327267282	||	None	||	Lawrence Joseph "Larry" Ellison	||	is	||	an American businessman, entrepreneur; 
+0.9294667989968121	||	None	||	Lawrence Joseph "Larry" Ellison	||	philanthropist	||	who is co-founder of Oracle Corporation and was CEO from its founding until September 2014; 
+0.2683449075456832	||	None	||	who	||	is co-founder of	||	Oracle Corporation; 
+
+He is the executive chairman and chief technology officer of Oracle. 
+0.5680679595514976	||	None	||	He	||	is	||	the executive chairman and chief technology officer of Oracle; 
+
+As of February 2017, he was listed by Forbes magazine as the fifth-wealthiest person in America and as the seventh-wealthiest in the world, with a fortune of $51.9 billion. 
+0.739566789350138	||	None	||	he	||	was listed	||	by Forbes magazine; as the fifth-wealthiest person in America and as the seventh-wealthiest in the world; As of February 2017; 
+
+Ellison was born in New York City but grew up in Chicago. 
+0.9324144673478683	||	None	||	Ellison	||	was born	||	in New York City; 
+0.9210233335200773	||	None	||	Ellison	||	grew up	||	in Chicago; 
+
+He studied at the University of Illinois at Urbana�VChampaign and the University of Chicago without graduating before moving to California in 1966. 
+0.5503378535116643	||	None	||	He	||	studied	||	at the University of Illinois at Urbana�VChampaign and the University of Chicago; 
+0.332563478582812	||	Some(Context(He studied,List([0, 10))))	||	He	||	studied without graduating	||	before moving to California in 1966; 
+
+While working at Ampex in the early 1970s, he became influenced by Edgar F. 
+0.4978219019954182	||	None	||	he	||	became influenced	||	by Edgar F.; 
+
+Codd's research on relational database design, which led in 1977 to the formation of what became Oracle. 
+0.8022022630383144	||	None	||	relational database design	||	led	||	in 1977; 
+
+Oracle became a successful database vendor to mid- and low-range systems, competing with Sybase and Microsoft SQL Server, which led to Ellison being listed by Forbes as one of the richest men in the world. 
+0.9484177987969541	||	None	||	Oracle	||	became	||	a successful database vendor to mid- and low-range systems; 
+0.9678478279394086	||	None	||	Microsoft SQL Server	||	led	||	to Ellison being listed by Forbes as one of the richest men in the world; 
+0.9324144673478683	||	None	||	Ellison	||	being listed	||	by Forbes; as one of the richest men in the world; 
+
+Ellison has donated up to 1% of his wealth to charity and has signed The Giving Pledge. 
+0.8615585111461579	||	None	||	Ellison	||	has donated	||	up to 1% of his wealth; to charity; 
+0.9210233335200773	||	None	||	Ellison	||	has signed	||	The Giving Pledge; 
+
+In addition to his work at Oracle, Ellison has had success in yachting, through Oracle Team USA. 
+0.9197759696552441	||	None	||	Ellison	||	has had	||	success in yachting; 
+
+He is a licensed aircraft pilot who owns two military jets. 
+0.5222094630377523	||	None	||	He	||	is	||	a licensed aircraft pilot who owns two military jets; 
+0.926856165049625	||	None	||	a licensed aircraft pilot	||	owns	||	two military jets; 

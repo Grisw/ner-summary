@@ -1,0 +1,106 @@
+Japan is a sovereign island nation in Eastern Asia. 
+0.9481947648689547	||	None	||	Japan	||	is	||	a sovereign island nation in Eastern Asia; 
+
+Located in the Pacific Ocean, it lies off the eastern coast of the Asia Mainland (east of China, Korea, Russia) and stretches from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the southwest. 
+0.4978219019954182	||	None	||	it	||	lies	||	off the eastern coast of the Asia Mainland; 
+0.5733539311623552	||	None	||	it	||	stretches	||	from the Sea of Okhotsk; in the north to the East China Sea and Taiwan in the southwest; 
+
+The kanji that make up Japan's name mean "sun origin". 
+0.5075494407006204	||	None	||	The kanji	||	make up	||	Japan's name mean "sun origin; 
+0.8992455075916974	||	Some(Context(The kanji make up,List([0, 22))))	||	Japan's name	||	mean	||	sun origin; 
+
+�� can be read as ni and means sun while �� can be read as hon, or pon and means origin. 
+0.10428243622764462	||	None	||	��	||	can be read	||	as ni; 
+0.08959641059387738	||	None	||	��	||	means	||	sun; 
+0.8131408756488548	||	None	||	��	||	can be read	||	as hon, or pon; 
+0.786255231995661	||	None	||	��	||	means	||	origin; 
+
+Japan is often referred to by the famous epithet "Land of the Rising Sun" in reference to its Japanese name.. 
+0.9304154240696826	||	None	||	Japan	||	is referred	||	to; by the famous epithet; often; 
+
+Japan is a stratovolcanic archipelago consisting of about 6,852 islands. 
+0.9383119524695255	||	None	||	Japan	||	is	||	a stratovolcanic archipelago consisting of about 6,852 islands; 
+0.9111779447320654	||	None	||	a stratovolcanic archipelago	||	consisting	||	of about 6,852 islands; 
+
+The four largest are Honshu, Hokkaido, Kyushu and Shikoku, which make up about ninety-seven percent of Japan's land area and often are referred to as home islands. 
+0.5898102672166055	||	None	||	largest	||	are	||	Honshu, Hokkaido, Kyushu and Shikoku; 
+0.6652560096730836	||	None	||	The four	||	are referred	||	as home islands; often; 
+
+The country is divided into 47 prefectures in eight regions. 
+0.9030401971054747	||	None	||	The country	||	is divided	||	into 47 prefectures in eight regions; 
+
+Hokkaido being the northernmost prefecture and Okinawa being the southernmost one. 
+0.9197759696552441	||	None	||	Hokkaido	||	being	||	the northernmost prefecture; 
+0.9197759696552441	||	None	||	Okinawa	||	being	||	the southernmost one; 
+
+The population of 127 million is the world's tenth largest. 
+0.9428944879517785	||	None	||	The population of 127 million	||	is	||	the world's tenth largest; 
+
+Japanese people make up 98.5% of Japan's total population. 
+0.9180804252893389	||	None	||	Japanese people	||	make up	||	98.5% of Japan's total population; 
+
+Approximately 9.1 million people live in the core city of Tokyo, the capital of Japan. 
+0.9314904193639496	||	None	||	Approximately 9.1 million people	||	live	||	in the core city of Tokyo; 
+
+Archaeological research indicates that Japan was inhabited as early as the Upper Paleolithic period. 
+0.8401711033228405	||	None	||	Archaeological research	||	indicates	||	that Japan was inhabited as early as the Upper Paleolithic period; 
+0.9169884650944797	||	Some(Context(Archaeological research indicates,List([0, 33))))	||	Japan	||	was inhabited	||	as early as the Upper Paleolithic period; 
+
+The first written mention of Japan is in Chinese history texts from the 1st century AD. 
+0.9753367109029302	||	None	||	The first written mention of Japan	||	is	||	in Chinese history texts from the 1st century AD; 
+
+Influence from other regions, mainly China, followed by periods of isolation, particularly from Western Europe, has characterized Japan's history. 
+0.6981802672629641	||	None	||	other regions	||	followed	||	
+0.9199569125504766	||	None	||	Influence from other regions	||	has characterized	||	Japan's history; 
+
+From the 12th century until 1868, Japan was ruled by successive feudal military shoguns who ruled in the name of the Emperor. 
+0.9534440626453463	||	None	||	Japan	||	was ruled	||	by successive feudal military shoguns; From the 12th century until 1868; 
+0.9199569125504766	||	None	||	successive feudal military shoguns	||	ruled	||	in the name of the Emperor; 
+
+Japan entered into a long period of isolation in the early 17th century, which was ended in 1853 when a United States fleet pressured Japan to open to the West. 
+0.9197759696552441	||	None	||	Japan	||	entered	||	into a long period of isolation; in the early 17th century; 
+0.9485377553740229	||	None	||	the early 17th century	||	was ended	||	in 1853; when a United States fleet pressured Japan to open to the West; 
+0.9485479188231729	||	None	||	a United States fleet	||	pressured	||	Japan; to open to the West; 
+0.9397001286877047	||	None	||	a United States fleet	||	to open	||	to the West; 
+
+After nearly two decades of internal conflict and insurrection, the Imperial Court regained its political power in 1868 through the help of several clans from Ch��sh�� and Satsuma, and the Empire of Japan was established. 
+0.9309696017466554	||	None	||	the Imperial Court	||	regained	||	its political power; in 1868; After nearly two decades of internal conflict and insurrection; 
+0.8182346120370801	||	None	||	the Empire of Japan	||	was established	||	
+
+In the late 19th and early 20th centuries, victories in the First Sino-Japanese War, the Russo-Japanese War and World War I allowed Japan to expand its empire during a period of increasing militarism. 
+0.5426816740884532	||	None	||	I	||	allowed	||	Japan to expand its empire during a period of increasing militarism; In the late 19th and early 20th centuries; 
+0.8273172415259126	||	Some(Context(I allowed,List([122, 131))))	||	Japan	||	to expand	||	its empire; during a period of increasing militarism; 
+
+The Second Sino-Japanese War of 1937 expanded into part of World War II in 1941, which came to an end in 1945 following the atomic bombings of Hiroshima and Nagasaki and the Japanese surrender. 
+0.9644566551015289	||	None	||	The Second Sino-Japanese War of 1937	||	expanded	||	into part of World War II; in 1941; 
+0.6609301329925201	||	None	||	1941	||	came	||	to an end; in 1945; following the atomic bombings of Hiroshima and Nagasaki and the Japanese surrender; 
+
+Since adopting its revised constitution on May 3, 1947 during the occupation by the SCAP, Japan has maintained a unitary parliamentary constitutional monarchy with an Emperor and an elected legislature called the National Diet. 
+0.9554598728085713	||	None	||	Japan	||	has maintained	||	a unitary parliamentary constitutional monarchy with an Emperor and an elected legislature; Since adopting its revised constitution on May 3, 1947 during the occupation by the SCAP; 
+0.9250606141558615	||	None	||	an elected legislature	||	called	||	the National Diet; 
+
+Japan is a member of the UN, the OECD, the G7, the G8, and the G20 and is considered a great power. 
+0.9481947648689547	||	None	||	Japan	||	is	||	a member of the UN; 
+0.8847999636040884	||	None	||	Japan	||	is a member of	||	the UN; 
+
+The country has the world's third-largest economy by nominal GDP and the world's fourth-largest economy by purchasing power parity. 
+0.9597492605074653	||	None	||	The country	||	has	||	the world's third-largest economy by nominal GDP and the world's fourth-largest economy; 
+
+It is also the world's fourth-largest exporter and fourth-largest importer. 
+0.5691839633287576	||	None	||	It	||	is also	||	the world's fourth-largest exporter and fourth-largest importer; 
+
+The country benefits from a highly skilled workforce and is among the most highly educated countries in the world, with one of the highest percentages of its citizens holding a tertiary education degree. 
+0.9030401971054747	||	None	||	The country	||	benefits	||	from a highly skilled workforce; 
+0.9126241552108846	||	None	||	The country	||	is	||	among the most highly educated countries in the world; 
+
+Although Japan has officially renounced its right to declare war, it maintains a modern military with the world's eighth-largest military budget, used for self-defense and peacekeeping roles. 
+0.45170382506656653	||	None	||	it	||	maintains	||	a modern military; 
+0.9335916207216877	||	None	||	the world's eighth-largest military budget	||	used	||	for self-defense and peacekeeping roles; 
+0.8273172415259126	||	None	||	Japan	||	has officially renounced	||	its right to declare war; 
+0.852130044887511	||	Some(Context(Japan has officially renounced,List([9, 39))))	||	Japan	||	has officially renounced to declare	||	war; 
+
+Japan is a developed country with a very high standard of living and Human Development Index. 
+0.9670538616899376	||	None	||	Japan	||	is	||	a developed country with a very high standard of living and Human Development Index; 
+
+Its population enjoys the highest life expectancy and the third lowest infant mortality rate in the world. 
+0.738742656023936	||	None	||	Its population	||	enjoys	||	the highest life expectancy and the third lowest infant mortality rate in the world; 

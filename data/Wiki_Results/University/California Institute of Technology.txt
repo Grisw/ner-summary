@@ -1,0 +1,72 @@
+The California Institute of Technology (abbreviated Caltech) is a private doctorate-granting university located in Pasadena, California, United States. 
+0.9799202247531523	||	None	||	The California Institute of Technology (abbreviated Caltech	||	is	||	a private doctorate-granting university located in Pasadena, California, United States; 
+0.9428419046403852	||	None	||	a private doctorate-granting university	||	located	||	in Pasadena; 
+
+Although founded as a preparatory and vocational school by Amos G. 
+
+
+Throop in 1891, the college attracted influential scientists such as George Ellery Hale, Arthur Amos Noyes, and Robert Andrews Millikan in the early 20th century. 
+0.9697920821317396	||	None	||	the college	||	attracted	||	influential scientists such as George Ellery Hale, Arthur Amos Noyes, and Robert Andrews Millikan in the early 20th century; in 1891; 
+
+The vocational and preparatory schools were disbanded and spun off in 1910, and the college assumed its present name in 1921. 
+0.7852615174453589	||	None	||	The vocational and preparatory schools	||	were disbanded	||	
+0.787629570513835	||	None	||	The vocational and preparatory schools	||	spun off	||	in 1910; 
+0.8348583869532935	||	None	||	the college	||	assumed	||	its present name; in 1921; 
+
+In 1934, Caltech was elected to the Association of American Universities, and the antecedents of NASA's Jet Propulsion Laboratory, which Caltech continues to manage and operate, were established between 1936 and 1943 under Theodore von K��rm��n. 
+0.9610033692204465	||	None	||	Caltech	||	was elected	||	to the Association of American Universities; In 1934; 
+0.8956889831971278	||	None	||	NASA's Jet Propulsion Laboratory	||	to operate	||	Caltech; 
+0.9219018827333112	||	None	||	the antecedents of NASA's Jet Propulsion Laboratory	||	were established	||	between 1936 and 1943; under Theodore von K��rm��n; 
+0.7639424379089015	||	None	||	Caltech	||	continues	||	to manage and operate; 
+0.9132743043764064	||	Some(Context(Caltech continues,List([137, 154))))	||	NASA's Jet Propulsion Laboratory	||	to manage	||	Caltech; 
+
+The university is one among a small group of Institutes of Technology in the United States which is primarily devoted to the instruction of technical arts and applied sciences. 
+0.9597492605074653	||	None	||	The university	||	is	||	one among a small group of Institutes of Technology in the United States; 
+0.9818822546690006	||	None	||	a small group of Institutes of Technology in the United States	||	is	||	primarily devoted to the instruction of technical arts and applied sciences; 
+
+Caltech has six academic divisions with strong emphasis on science and engineering, managing $332 million in 2011 in sponsored research. 
+0.9606193513644111	||	None	||	Caltech	||	has	||	six academic divisions with strong emphasis on science and engineering; 
+
+Its 124-acre (50 ha) primary campus is located approximately 11 mi (18 km) northeast of downtown Los Angeles. 
+0.9472929138282772	||	None	||	primary campus	||	is located	||	approximately 11 mi (18 km) northeast of downtown Los Angeles; 
+
+First-year students are required to live on campus, and 95% of undergraduates remain in the on-campus House System at Caltech. 
+0.9186941924198344	||	None	||	First-year students	||	are required	||	to live on campus; 
+0.9052256377408016	||	None	||	First-year students	||	to live	||	on campus; 
+0.9314904193639496	||	None	||	95% of undergraduates	||	remain	||	in the on-campus House System; 
+
+Although Caltech has a strong tradition of practical jokes and pranks, student life is governed by an honor code which allows faculty to assign take-home examinations. 
+0.9383119524695255	||	None	||	Caltech	||	has	||	a strong tradition of practical jokes and pranks; 
+0.9030401971054747	||	None	||	student life	||	is governed	||	by an honor code; 
+0.8697204766739571	||	None	||	an honor code	||	allows	||	faculty to assign take-home examinations; 
+0.8668367470739037	||	Some(Context(an honor code allows,List([99, 125))))	||	faculty	||	to assign	||	take-home examinations; 
+
+The Caltech Beavers compete in 13 intercollegiate sports in the NCAA Division III's Southern California Intercollegiate Athletic Conference. 
+0.9640827750857294	||	None	||	The Caltech Beavers	||	compete	||	in 13 intercollegiate sports; in the NCAA Division III's Southern California Intercollegiate Athletic Conference; 
+
+Caltech is frequently cited as one of the world's best universities. 
+0.9304154240696826	||	None	||	Caltech	||	is cited	||	as one of the world's best universities; frequently; 
+
+Caltech alumni and faculty include 34 Nobel Prizes (Linus Pauling being the only individual in history to win two unshared prizes), 1 Fields Medalist, 6 Turing Award winners, 4 Chief Scientists of the U.S. 
+0.9314904193639496	||	None	||	Caltech alumni and faculty	||	include	||	34 Nobel Prizes; 
+0.952945494449658	||	None	||	Linus Pauling	||	being	||	the only individual in history to win two unshared prizes; 
+0.9256263201643982	||	None	||	the only individual in history	||	to win	||	two unshared prizes; 
+
+Air Force and 71 have won the United States National Medal of Science or Technology. 
+0.9485479188231729	||	None	||	Air Force and 71	||	have won	||	the United States National Medal of Science or Technology; 
+0.38089450366724514	||	None	||	Medal	||	[is] National [from]	||	United States; 
+
+There are 112 faculty members who have been elected to the United States National Academies. 
+0.9125462839307745	||	None	||	112 faculty members	||	have been elected	||	to the United States National Academies; 
+0.38089450366724514	||	None	||	Academies	||	[is] National [from]	||	United States; 
+
+In addition, numerous faculty members are associated with the Howard Hughes Medical Institute as well as NASA. 
+0.9519143416197944	||	None	||	numerous faculty members	||	are associated	||	with the Howard Hughes Medical Institute as well as NASA; 
+
+According to a 2015 Pomona College study, Caltech ranked number one in the U.S. 
+0.9324144673478683	||	None	||	Caltech	||	ranked	||	number one; in the U.S.; 
+0.38089450366724514	||	None	||	Caltech	||	[is] College study [of]	||	Pomona; 
+
+for the percentage of its graduates who go on to earn a PhD. 
+0.5343255782127435	||	None	||	its graduates	||	go on	||	to earn a PhD.; 
+0.5343255782127435	||	Some(Context(its graduates go on,List([22, 45))))	||	its graduates	||	go on to earn	||	a PhD.; 

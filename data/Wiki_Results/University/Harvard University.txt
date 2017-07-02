@@ -1,0 +1,56 @@
+Harvard University is a private Ivy League research university in Cambridge, Massachusetts, established in 1636, whose history, influence, and wealth have made it one of the world's most prestigious universities. 
+0.9527410621066101	||	None	||	Harvard University	||	is	||	a private Ivy League research university in Cambridge; 
+0.7735794665865495	||	None	||	Cambridge	||	established	||	in 1636; 
+
+Established originally by the Massachusetts legislature and soon thereafter named for John Harvard (its first benefactor), Harvard is the United States' oldest institution of higher learning, and the Harvard Corporation (formally, the President and Fellows of Harvard College) is its first chartered corporation. 
+
+
+Although never formally affiliated with any denomination, the early College primarily trained Congregationalist and Unitarian clergy. 
+0.9436221120476838	||	None	||	the early College	||	primarily trained	||	Congregationalist and Unitarian clergy; 
+
+Its curriculum and student body were gradually secularized during the 18th century, and by the 19th century Harvard had emerged as the central cultural establishment among Boston elites. 
+0.7020398081927577	||	None	||	Its curriculum and student body	||	were gradually secularized	||	during the 18th century; 
+0.9610033692204465	||	None	||	Harvard	||	had emerged	||	as the central cultural establishment among Boston elites; by the 19th century; 
+
+Following the American Civil War, President Charles W. 
+
+
+Eliot's long tenure (1869�C1909) transformed the college and affiliated professional schools into a modern research university; Harvard was a founding member of the Association of American Universities in 1900. 
+0.9337334399293727	||	None	||	Harvard	||	was	||	a founding member of the Association of American Universities; in 1900; 
+0.9088431831431464	||	Some(Context(Harvard was,List([128, 139))))	||	Eliot's long tenure	||	transformed	||	the college; 
+
+James Bryant Conant led the university through the Great Depression and World War II and began to reform the curriculum and liberalize admissions after the war. 
+0.9569065201547587	||	None	||	James Bryant Conant	||	led	||	the university; through the Great Depression and World War II; 
+0.9496374851507858	||	None	||	James Bryant Conant	||	began	||	to reform the curriculum and liberalize admissions after the war; 
+
+The undergraduate college became coeducational after its 1977 merger with Radcliffe College. 
+0.8701366851329085	||	None	||	The undergraduate college	||	became	||	coeducational; after its 1977 merger with Radcliffe College; 
+
+The University is organized into eleven separate academic units��ten faculties and the Radcliffe Institute for Advanced Study��with campuses throughout the Boston metropolitan area: its 209-acre (85 ha) main campus is centered on Harvard Yard in Cambridge, approximately 3 miles (5 km) northwest of Boston; the business school and athletics facilities, including Harvard Stadium, are located across the Charles River in the Allston neighborhood of Boston and the medical, dental, and public health schools are in the Longwood Medical Area. 
+0.9605824069728295	||	None	||	The University	||	is organized	||	into eleven separate academic units��ten faculties and the Radcliffe Institute for Advanced Study��with campuses; throughout the Boston metropolitan area; 
+0.9180804252893389	||	None	||	main campus	||	is centered	||	on Harvard Yard in Cambridge; 
+0.9862389675328181	||	None	||	its 209-acre (85 ha) main campus is centered on Harvard Yard in Cambridge, approximately 3 miles (5 km) northwest of Boston; the business school and athletics facilities, including Harvard Stadium	||	are located	||	across the Charles River; in the Allston neighborhood of Boston and the medical, dental; 
+0.9250606141558615	||	None	||	public health schools	||	are	||	in the Longwood Medical Area; 
+
+Harvard's $34.5 billion financial endowment is the largest of any academic institution. 
+0.9644901025626478	||	None	||	Harvard's $34.5 billion financial endowment	||	is	||	the largest of any academic institution; 
+
+Harvard is a large, highly residential research university. 
+0.9383119524695255	||	None	||	Harvard	||	is	||	a large, highly residential research university; 
+
+The nominal cost of attendance is high, but the University's large endowment allows it to offer generous financial aid packages. 
+0.8533888711067524	||	None	||	The nominal cost of attendance	||	is	||	high; 
+0.8800134566082508	||	None	||	the University's large endowment	||	allows	||	it to offer generous financial aid packages; 
+0.39746064682094406	||	Some(Context(the University 's large endowment allows,List([44, 83))))	||	it	||	to offer	||	generous financial aid packages; 
+
+It operates several arts, cultural, and scientific museums, alongside the Harvard Library, which is the world's largest academic and private library system, comprising 79 individual libraries with over 18 million volumes. 
+0.45170382506656653	||	None	||	It	||	operates	||	several arts, cultural, and scientific museums; 
+
+Harvard's alumni include eight U.S. 
+0.9436221120476838	||	None	||	Harvard's alumni	||	include	||	eight U.S.; 
+
+presidents, several foreign heads of state, 62 living billionaires, 359 Rhodes Scholars, and 242 Marshall Scholars. 
+
+
+To date, some 130 Nobel laureates, 18 Fields Medalists, and 13 Turing Award winners have been affiliated as students, faculty, or staff. 
+0.9862876415235399	||	None	||	some 130 Nobel laureates, 18 Fields Medalists, and 13 Turing Award winners	||	have been affiliated	||	as students, faculty, or staff; To date; 

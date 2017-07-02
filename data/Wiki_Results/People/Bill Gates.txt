@@ -1,0 +1,60 @@
+William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, investor, author, and  philanthropist. 
+0.9342893671889873	||	None	||	William Henry "Bill" Gates III	||	born	||	October 28, 1955; 
+0.9498726151137268	||	None	||	William Henry "Bill" Gates III	||	is	||	an American business magnate, investor, author, and  philanthropist; 
+
+In 1975, Gates and Paul Allen co-founded Microsoft, which became the world's largest PC software  company. 
+0.9705280282943234	||	None	||	Gates and Paul Allen	||	co-founded	||	Microsoft; In 1975; 
+0.9064683704715875	||	None	||	Microsoft	||	became	||	the world's largest PC software  company; 
+
+During his career at Microsoft, Gates held the positions of chairman, CEO and chief software architect, and  was the largest individual shareholder until May 2014. 
+0.9660552719272845	||	None	||	Gates	||	held	||	the positions of chairman, CEO and chief software architect; During his career at Microsoft; 
+0.9375044131705942	||	None	||	Gates	||	was	||	the largest individual shareholder; until May 2014; During his career at Microsoft; 
+
+Gates has authored and co-authored several books. 
+0.7711002770011991	||	None	||	Gates	||	has authored	||	
+0.9064683704715875	||	None	||	Gates	||	co-authored	||	several books; 
+
+ Since 1987, Gates has been included in the Forbes list of the world's wealthiest people and was the wealthiest from  1995 to 2007, again in 2009, and has been since 2014. 
+0.9753210026959435	||	None	||	Gates	||	has been included	||	in the Forbes list of the world's wealthiest people; Since 1987; 
+0.8192566902456899	||	None	||	Gates	||	was	||	the wealthiest from  1995 to 2007; again; in 2009; 
+0.8592111619294878	||	None	||	Gates	||	has been	||	since 2014; Since 1987; 
+
+Between 2009 and 2014, his wealth doubled from US$40 billion to  more than US$82 billion. 
+0.5261335061301263	||	None	||	his wealth	||	doubled	||	from US$40 billion; to  more than US$82 billion; Between 2009 and 2014; 
+
+Between 2013 and 2014, his wealth increased by US$15 billion. 
+0.5261335061301263	||	None	||	his wealth	||	increased	||	by US$15 billion; Between 2013 and 2014; 
+
+Gates is currently the  richest person in the world, with an estimated net worth of US$85.6 billion as of February 2017. 
+0.9383119524695255	||	None	||	Gates	||	is	||	currently; the  richest person in the world; 
+
+ Gates is one of the best-known entrepreneurs of the personal computer revolution. 
+0.9606193513644111	||	None	||	Gates	||	is	||	one of the best-known entrepreneurs of the personal computer revolution; 
+
+He has been criticized for his  business tactics, which have been considered anti-competitive, an opinion that has in some cases been upheld by  numerous court rulings. 
+0.30899953469486874	||	None	||	He	||	has been criticized	||	for his  business tactics; 
+0.9126241552108846	||	None	||	an opinion	||	has	||	in some cases; 
+0.9030401971054747	||	None	||	some cases	||	been upheld	||	by  numerous court rulings; 
+
+Later in his career, Gates pursued a number of philanthropic endeavors, donating large  amounts of money to various charitable organizations and scientific research programs through the Bill & Melinda Gates Foundation, established in 2000. 
+0.8470692910769746	||	None	||	the Bill & Melinda Gates Foundation	||	established	||	in 2000; 
+0.8953741729226765	||	None	||	Gates	||	pursued	||	a number of philanthropic endeavors; Later; in his career; 
+0.9174954221596651	||	Some(Context(Gates pursued,List([21, 34))))	||	Gates	||	pursued a number of philanthropic endeavors donating	||	large  amounts of money; to various charitable organizations and scientific research programs through the Bill & Melinda Gates Foundation; 
+
+ Gates stepped down as chief executive officer of Microsoft in January 2000. 
+0.9324144673478683	||	None	||	Gates	||	stepped down	||	as chief executive officer of Microsoft in January 2000; 
+
+He remained as chairman and created the  position of chief software architect for himself. 
+0.45170382506656653	||	None	||	He	||	remained	||	as chairman; 
+0.2743125465364158	||	None	||	He	||	created	||	the  position of chief software architect; for himself; 
+
+In June 2006, Gates announced that he would be transitioning from  full-time work at Microsoft to part-time work, and full-time work at the Bill & Melinda Gates Foundation. 
+0.8578017210754282	||	None	||	Gates	||	announced	||	that he would be transitioning from  full-time work at Microsoft to part-time work, and full-time work at the Bill & Melinda Gates Foundation; In June 2006; 
+0.4328394458044063	||	Some(Context(Gates announced,List([14, 29))))	||	he	||	would be transitioning	||	from  full-time work at Microsoft; to part-time work; 
+
+He  gradually transferred his duties to Ray Ozzie and Craig Mundie. 
+0.3498441627223176	||	None	||	He	||	gradually transferred	||	his duties; to Ray Ozzie and Craig Mundie; 
+
+He stepped down as chairman of Microsoft in February 2014, taking on a new post as technology adviser to support the then newly appointed CEO Satya Nadella. 
+0.4328394458044063	||	None	||	He	||	stepped down	||	as chairman of Microsoft; in February 2014; 
+0.292827695956731	||	Some(Context(He stepped down,List([0, 15))))	||	He	||	stepped down as chairman of Microsoft taking on	||	a new post as technology adviser; to support the then newly appointed CEO; 

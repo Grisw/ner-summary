@@ -1,0 +1,77 @@
+India, officially the Republic of India, is a country in South Asia. 
+0.9392901325936276	||	None	||	India	||	is	||	a country in South Asia; 
+
+It is the seventh-largest country by area, the second-most populous country (with over 1.2 billion people), and the most populous democracy in the world. 
+0.5222094630377523	||	None	||	It	||	is	||	the seventh-largest country by area; 
+
+It is bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast. 
+
+
+It shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the northeast; and Myanmar (Burma) and Bangladesh to the east. 
+0.4978219019954182	||	None	||	It	||	shares	||	land borders; with Pakistan; 
+
+In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives. 
+0.9703210197816324	||	None	||	India	||	is	||	in the vicinity of Sri Lanka and the Maldives; In the Indian Ocean; 
+
+India's Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia. 
+0.9572029669433457	||	None	||	India's Andaman and Nicobar Islands	||	share	||	a maritime border with Thailand and Indonesia; 
+
+The Indian subcontinent was home to the urban Indus Valley Civilisation of the 3rd millennium BCE. 
+0.8275220498795318	||	None	||	The Indian subcontinent	||	was	||	home; 
+
+In the following millennium, the oldest scriptures associated with Hinduism began to be composed. 
+0.9250606141558615	||	None	||	the oldest scriptures	||	associated	||	with Hinduism; 
+0.9651237254108812	||	None	||	the oldest scriptures associated with Hinduism	||	began	||	In the following millennium; 
+0.821954668216543	||	None	||	the oldest scriptures associated with Hinduism	||	to be composed	||	
+
+Social stratification, based on caste, emerged in the first millennium BCE, and Buddhism and Jainism arose. 
+0.9143456855143793	||	None	||	Social stratification	||	based	||	on caste; 
+0.9277724913494431	||	None	||	Social stratification	||	emerged	||	in the first millennium BCE; 
+0.8034186648553394	||	None	||	Buddhism and Jainism	||	arose	||	
+
+Early political consolidations took place under the Maurya and Gupta empires; the later peninsular Middle Kingdoms influenced cultures as far as southeast Asia. 
+0.929249045489806	||	None	||	the later peninsular Middle Kingdoms	||	influenced as far	||	cultures; 
+0.908121531799704	||	Some(Context(the later peninsular Middle Kingdoms influenced as far,List([78, 141))))	||	Early political consolidations	||	took	||	place; under the Maurya and Gupta empires; 
+
+In the medieval era, Judaism, Zoroastrianism, Christianity, and Islam arrived, and Sikhism emerged, all adding to the region's diverse culture. 
+0.9710754877983955	||	None	||	Judaism, Zoroastrianism, Christianity, and Islam	||	arrived	||	In the medieval era; 
+0.7295353171650001	||	None	||	Sikhism	||	emerged	||	
+0.857013187887947	||	Some(Context(Sikhism emerged,List([83, 98))))	||	Sikhism	||	emerged adding	||	to the region's diverse culture; 
+
+Much of the north fell to the Delhi sultanate; the south was united under the Vijayanagara Empire. 
+0.8997345737322758	||	None	||	the south	||	was united	||	under the Vijayanagara Empire; 
+0.9352469248391693	||	Some(Context(the south was united,List([47, 67))))	||	Much of the north	||	fell	||	to the Delhi sultanate; 
+
+The economy expanded in the 17th century in the Mughal empire. 
+0.9180804252893389	||	None	||	The economy	||	expanded	||	in the 17th century in the Mughal empire; 
+
+In the mid-18th century, the subcontinent came under British East India Company rule, and in the mid-19th under British crown rule. 
+0.9524232899707616	||	None	||	the subcontinent	||	came	||	under British East India Company rule; In the mid-18th century; 
+
+A nationalist movement emerged in the late 19th century, which later, under Mahatma Gandhi, was noted for non-violent resistance and led to India's independence in 1947. 
+0.9111779447320654	||	None	||	A nationalist movement	||	emerged	||	in the late 19th century; 
+0.9446325682738259	||	None	||	the late 19th century	||	was noted	||	for non-violent resistance; later; 
+0.9645851258295748	||	None	||	the late 19th century	||	led	||	to India's independence; in 1947; later; 
+
+In 2015, the Indian economy was the world's seventh largest by nominal GDP and third largest by purchasing power parity. 
+0.9791288517885774	||	None	||	the Indian economy	||	was	||	the world's seventh largest by nominal GDP and third largest; In 2015; 
+
+Following market-based economic reforms in 1991, India became one of the fastest-growing major economies and is considered a newly industrialised country. 
+0.9534440626453463	||	None	||	India	||	became	||	one of the fastest-growing major economies; Following market-based economic reforms in 1991; 
+
+However, it continues to face the challenges of poverty, corruption, malnutrition, and inadequate public healthcare. 
+0.1948871917044894	||	None	||	it	||	continues	||	
+0.5275899385541258	||	None	||	it	||	to face	||	the challenges of poverty, corruption, malnutrition, and inadequate public healthcare; 
+
+A nuclear weapons state and regional power, it has the third largest standing army in the world and ranks sixth in military expenditure among nations. 
+0.5222094630377523	||	None	||	it	||	has	||	the third largest standing army in the world; 
+0.4802217740069371	||	None	||	it	||	ranks	||	sixth; in military expenditure; among nations; 
+
+India is a federal constitutional republic governed under a parliamentary system and consists of 29 states and 7 union territories. 
+0.9383119524695255	||	None	||	India	||	is	||	a federal constitutional republic governed under a parliamentary system; 
+0.9186941924198344	||	None	||	a federal constitutional republic	||	governed	||	under a parliamentary system; 
+0.9064683704715875	||	None	||	India	||	consists	||	of 29 states and 7 union territories; 
+
+It is a pluralistic, multilingual and multi-ethnic society and is also home to a diversity of wildlife in a variety of protected habitats. 
+0.5222094630377523	||	None	||	It	||	is	||	a pluralistic, multilingual and multi-ethnic society; 
+0.5275899385541258	||	None	||	It	||	is also	||	home to a diversity of wildlife in a variety of protected habitats; 

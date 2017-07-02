@@ -1,0 +1,39 @@
+The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts, often cited as one of the world's most prestigious universities. 
+0.957934389168857	||	None	||	The Massachusetts Institute of Technology	||	is	||	a private research university in Cambridge; 
+
+Founded in 1861 in response to the increasing industrialization of the United States, MIT adopted a European polytechnic university model and stressed laboratory instruction in applied science and engineering. 
+0.8550806581371961	||	None	||	MIT	||	adopted	||	a European polytechnic university model; 
+0.8329899967105379	||	None	||	MIT	||	stressed	||	laboratory instruction in applied science and engineering; 
+
+Researchers worked on computers, radar, and inertial guidance during World War II and the Cold War. 
+0.9422542725599635	||	None	||	Researchers	||	worked	||	on computers, radar, and inertial guidance during World War II and the Cold War; 
+
+Post-war defense research contributed to the rapid expansion of the faculty and campus under James Killian. 
+0.9519143416197944	||	None	||	Post-war defense research	||	contributed	||	to the rapid expansion of the faculty and campus under James Killian; 
+
+The current 168-acre (68.0 ha) campus opened in 1916 and extends over 1 mile (1.6 km) along the northern bank of the Charles River basin. 
+0.8767394648680141	||	None	||	The current 168-acre (68.0 ha) campus	||	opened	||	in 1916; 
+0.9447690852174394	||	None	||	The current 168-acre (68.0 ha) campus	||	extends	||	along the northern bank of the Charles River basin; 
+
+The Institute is traditionally known for its research and education in the physical sciences and engineering, and more recently in biology, economics, linguistics, and management as well. 
+0.9166165405193513	||	None	||	The Institute	||	is traditionally known	||	for its research and education; in the physical sciences and engineering, and more recently in biology, economics, linguistics, and management as well; 
+
+For several years, MIT's School of Engineering has been ranked first in various international and national university rankings, and the Institute is also often ranked among the world's top universities overall. 
+0.967890181429115	||	None	||	MIT's School of Engineering	||	has been ranked	||	first; in various international and national university rankings; For several years; 
+0.9364173652891112	||	None	||	the Institute	||	is ranked	||	among the world's top universities overall; often; 
+
+The "Engineers" compete in 31 sports, most teams of which compete in the NCAA Division III's New England Women's and Men's Athletic Conference; the Division I rowing programs compete as part of the EARC and EAWRC. 
+0.754786857249888	||	None	||	the Division I rowing programs	||	compete	||	as part of the EARC and EAWRC; 
+0.9458258993234717	||	Some(Context(the Division I rowing programs compete,List([144, 182))))	||	most teams of which	||	compete	||	in the NCAA Division III's New England Women's and Men's Athletic Conference; 
+0.8741085464409916	||	Some(Context(most teams of which compete the Division I rowing programs compete,List([38, 182))))	||	The "Engineers	||	compete	||	in 31 sports; 
+
+As of 2015, 85 Nobel laureates, 52 National Medal of Science recipients, 65 Marshall Scholars, 45 Rhodes Scholars, 38 MacArthur Fellows, 34 astronauts, 19 Turing award winners, 16 Chief Scientists of the U.S. 
+
+
+Air Force and 6 Fields Medalists have been affiliated with MIT. 
+0.9572029669433457	||	None	||	Air Force and 6 Fields Medalists	||	have been affiliated	||	with MIT; 
+
+The school has a strong entrepreneurial culture, and the aggregated revenues of companies founded by MIT alumni would rank as the eleventh-largest economy in the world. 
+0.9251282565798027	||	None	||	The school	||	has	||	a strong entrepreneurial culture; 
+0.9105129651916236	||	None	||	companies	||	founded	||	by MIT alumni; 
+0.913197594301744	||	None	||	the aggregated revenues of companies	||	would rank	||	as the eleventh-largest economy in the world; 

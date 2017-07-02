@@ -1,0 +1,85 @@
+China, officially the People's Republic of China (PRC), is a unitary sovereign state in East Asia. 
+0.9392901325936276	||	None	||	China	||	is	||	a unitary sovereign state in East Asia; 
+
+With a population of over 1.381 billion, it is the world's most populous country. 
+0.5222094630377523	||	None	||	it	||	is	||	the world's most populous country; 
+
+The state is governed by the Communist Party of China, and its capital is Beijing. 
+0.9180804252893389	||	None	||	The state	||	is governed	||	by the Communist Party of China; 
+0.7378635968700462	||	None	||	its capital	||	is	||	Beijing; 
+
+It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and two mostly self-governing special administrative regions (Hong Kong and Macau), and claims sovereignty over Taiwan. 
+0.6138676038426771	||	None	||	It	||	exercises	||	jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and two mostly self-governing special administrative regions (Hong Kong and Macau), and claims sovereignty over Taiwan; 
+
+The country's major urban areas include Shanghai, Guangzhou, Beijing, Chongqing, Shenzhen, Tianjin and Hong Kong. 
+0.9635747904301405	||	None	||	The country's major urban areas	||	include	||	Shanghai, Guangzhou, Beijing, Chongqing, Shenzhen, Tianjin and Hong Kong; 
+
+China is a great power and a major regional power within Asia, and has been characterized as a potential superpower. 
+0.9670538616899376	||	None	||	China	||	is	||	a great power and a major regional power within Asia; 
+0.9064683704715875	||	None	||	China	||	has been characterized	||	as a potential superpower; 
+
+Covering approximately 9.6 million square kilometres (3.7 million square miles), China is the world's second largest state by land area, and either the third or fourth-largest by total area, depending on the method of measurement.[i] China's landscape is vast and diverse, ranging from forest steppes and the Gobi and Taklamakan Deserts in the arid north to subtropical forests in the wetter south. 
+0.9606193513644111	||	None	||	China	||	is	||	the world's second largest state by land area, and either the third or fourth-largest by total area; 
+0.599062995024498	||	None	||	i] China's landscape	||	is	||	vast and diverse; 
+
+The Himalaya, Karakoram, Pamir and Tian Shan mountain ranges separate China from much of South and Central Asia. 
+
+
+The Yangtze and Yellow Rivers, the third and sixth longest in the world, respectively, run from the Tibetan Plateau to the densely populated eastern seaboard. 
+0.957934389168857	||	None	||	The Yangtze and Yellow Rivers	||	run	||	from the Tibetan Plateau; to the densely populated eastern seaboard; 
+
+China's coastline along the Pacific Ocean is 14,500 kilometers (9,000 mi) long, and is bounded by the Bohai, Yellow, East China, and South China seas. 
+0.9644901025626478	||	None	||	China's coastline along the Pacific Ocean	||	is	||	14,500 kilometers (9,000 mi) long; 
+
+China emerged as one of the world's earliest civilizations in the fertile basin of the Yellow River in the North China Plain. 
+0.9567562066335041	||	None	||	China	||	emerged	||	as one of the world's earliest civilizations; in the fertile basin of the Yellow River in the North China Plain; 
+
+For millennia, China's political system was based on hereditary monarchies known as dynasties, beginning with the Xia dynasty (c.?2070 bce). 
+0.9647473018530447	||	None	||	China's political system	||	was based	||	on hereditary monarchies; For millennia; 
+0.9251282565798027	||	None	||	hereditary monarchies	||	known	||	as dynasties; 
+0.8958428165666725	||	None	||	dynasties	||	beginning	||	with the Xia dynasty; 
+
+Since 221 bce, when the Qin dynasty conquered the other largest six states to form the first unified Chinese empire, China has then expanded, fractured and re-unified numerous times in the following millennia. 
+0.9329286852051247	||	None	||	the Qin dynasty	||	conquered	||	the other largest six states; 
+0.9176583691170586	||	None	||	China	||	has expanded	||	Since 221 bce; then; 
+0.9064683704715875	||	None	||	China	||	re-unified	||	numerous times; in the following millennia; 
+
+In 1912, The Republic of China (ROC) replaced the last dynasty, and ruled the Chinese mainland until 1949, when it was defeated by the communist People's Liberation Army in the Chinese Civil War. 
+0.9585634962421642	||	None	||	The Republic of China	||	replaced	||	the last dynasty; In 1912; 
+0.9585634962421642	||	None	||	The Republic of China	||	ruled	||	the Chinese mainland; until 1949; In 1912; 
+0.4978219019954182	||	None	||	it	||	was defeated	||	by the communist People's Liberation Army; in the Chinese Civil War; 
+
+The Communist Party established the People's Republic of China in Beijing on 1 October 1949, while the ROC government relocated to Taiwan with its present de facto temporary capital in Taipei. 
+0.9357729459540856	||	None	||	The Communist Party	||	established	||	the People's Republic of China; in Beijing; on 1 October 1949; while the ROC government relocated to Taiwan with its present de facto temporary capital in Taipei; 
+0.9436221120476838	||	None	||	the ROC government	||	relocated	||	to Taiwan; 
+
+Both the ROC and PRC continue to claim to be the legitimate government of all China, though the latter has more recognition in the world and controls more territory. 
+0.8983089659262448	||	None	||	Both the ROC and PRC	||	to be	||	the legitimate government of all China; 
+0.9251282565798027	||	None	||	the latter	||	has	||	more recognition in the world; 
+0.8872966301155124	||	None	||	the latter	||	controls	||	more territory; 
+0.9306468777847047	||	None	||	Both the ROC and PRC	||	continue	||	to claim to be the legitimate government of all China; 
+0.8932481389502064	||	Some(Context(Both the ROC and PRC continue,List([0, 29))))	||	Both the ROC and PRC	||	continue to claim	||	to be the legitimate government of all China; 
+
+Since the introduction of economic reforms in 1978, China has become one of the world's fastest-growing major economies. 
+0.9704517634048241	||	None	||	China	||	has become	||	one of the world's fastest-growing major economies; Since the introduction of economic reforms in 1978; 
+
+As of 2016, it is the world's second-largest economy by nominal GDP and largest by purchasing power parity (PPP). 
+0.5222094630377523	||	None	||	it	||	is	||	the world's second-largest economy; 
+
+China is also the world's largest exporter and second-largest importer of goods. 
+0.9484177987969541	||	None	||	China	||	is also	||	the world's largest exporter and second-largest importer of goods; 
+
+China is a recognized nuclear weapons state and has the world's largest standing army and second-largest defense budget. 
+0.9383119524695255	||	None	||	China	||	is	||	a recognized nuclear weapons state; 
+0.953746162952515	||	None	||	China	||	has	||	the world's largest standing army and second-largest defense budget; 
+
+The PRC is a member of the United Nations, as it replaced the ROC as a permanent member of the U.N. 
+0.9120890140090938	||	None	||	The PRC	||	is	||	a member of the United Nations; 
+0.4978219019954182	||	None	||	it	||	replaced	||	the ROC; as a permanent member of the U.N.; 
+0.8847999636040884	||	None	||	The PRC	||	is a member of	||	the United Nations; 
+
+Security Council in 1971. 
+
+
+China is also a member of numerous formal and informal multilateral organizations, including the WTO, APEC, BRICS, the Shanghai Cooperation Organization (SCO), the BCIM and the G-20. 
+0.9567562066335041	||	None	||	China	||	is also	||	a member of numerous formal and informal multilateral organizations, including the WTO, APEC, BRICS, the Shanghai Cooperation Organization (SCO), the BCIM and the G-20; 

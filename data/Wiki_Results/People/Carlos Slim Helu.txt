@@ -1,0 +1,20 @@
+Carlos Slim Helú (born January 28, 1940) is a Mexican business magnate, investor, and philanthropist. 
+0.949419443712137	||	None	||	Carlos Slim Helú	||	born	||	January 28; 
+0.9582631324958855	||	None	||	Carlos Slim Helú (born January 28	||	is	||	a Mexican business magnate, investor, and philanthropist; 
+
+From 2010 to 2013, Slim was ranked as the richest person in the world. 
+0.9133417309034445	||	None	||	Slim	||	was ranked	||	as the richest person in the world; From 2010 to 2013; 
+
+He derived his fortune from his extensive holdings in a considerable number of Mexican companies through his conglomerate, Grupo Carso. 
+0.41763505952380825	||	None	||	He	||	derived	||	his fortune; from his extensive holdings in a considerable number of Mexican companies; 
+
+As of 31 July 2016 he was #7 on Forbes list of billionaires, with a net worth estimated at more than $50 billion. 
+0.7014248240125444	||	None	||	he	||	was	||	#7; As of 31 July 2016; 
+0.7833813375237394	||	None	||	a net worth	||	estimated	||	at more than $50 billion; 
+
+His conglomerate includes education, health care, industrial manufacturing, transportation, real estate, media, energy, hospitality, entertainment, high-technology, retail, sports, and financial services. 
+0.738742656023936	||	None	||	His conglomerate	||	includes	||	education, health care, industrial manufacturing, transportation, real estate, media, energy, hospitality, entertainment, high-technology, retail, sports, and financial services; 
+
+He accounts for 40% of the listings on the Mexican Stock Exchange, while his net worth is equivalent to about 6 percent of Mexico’s gross domestic product. 
+0.6138676038426771	||	None	||	He	||	accounts	||	for 40% of the listings on the Mexican Stock Exchange; 
+0.8325541215947171	||	None	||	his net worth	||	is	||	equivalent to about 6 percent of Mexico's gross domestic product; 
